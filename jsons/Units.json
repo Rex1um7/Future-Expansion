@@ -948,7 +948,7 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"[+33]% Strength <vs [Land] units>",
@@ -992,7 +992,7 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-1] Sight",
@@ -1096,7 +1096,7 @@
 		"cost": 600,
 		"requiredResource": "Composites",
 		"uniques": [
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Only available <if [GP-Energy Weapons] is constructed>"
 		],
 		"promotions": [
@@ -1116,7 +1116,7 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Only available <if [GP-Energy Weapons] is constructed>",
 			"[+100]% Strength <vs [Armored] units>",
 			"[+75]% Strength <vs [Fighter] units>",
@@ -1146,7 +1146,7 @@
 		"uniques": [
 			"Cyber",
 			"Space",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Only available <if [GP-Energy Weapons] is constructed>",
 			"No defensive terrain bonus",
 			"Can move after attacking",
@@ -1240,7 +1240,7 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Only available <if [EP-Cyber Engineering] is constructed>",
 			"[+75]% Strength <when attacking>",
 			"Can move after attacking",
