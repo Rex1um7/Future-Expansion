@@ -555,9 +555,10 @@
 		"requiredTech": "Nanotechnology",
 		"isNationalWonder": true,
 		"uniques": [
+			//"Will not be displayed in Civilopedia",
 			"Enables construction of Monolith Aliens",
-			"Must have an owned [Alien Monolith] within [3] tiles",
-			"Will not be displayed in Civilopedia"
+			"Must have an owned [Alien Monolith] within [3] tiles"
+			
 		]
 	},
 	//World Wonders
