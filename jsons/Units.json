@@ -872,7 +872,7 @@
 			"Cyber",
 			"Hacker",
 			"Never appears as a Barbarian unit",
-			"[+33]% Strength bonus for [non-Air] units <vs [Cyber] units> within [1] tiles",
+			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
 			"25% Chance for Adjacent units to capture Killed Cyber unit",
 			"May withdraw before melee ([50]%)",
 			"Can see invisible [Military] units",
@@ -1018,7 +1018,7 @@
 			"Cyber",
 			"Never appears as a Barbarian unit",
 			"Anti-Air",
-			"[+33]% Strength bonus for [Land] units <vs [Air] units> within [1] tiles",
+			"[+33]% Strength bonus for [Land] units within [1] tiles <vs [Air] units>",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"Only available <if [GP-Hovercombat] is constructed>"
@@ -1042,7 +1042,7 @@
 		"requiredTech": "Automation",
 		"uniques": [
 			"Cyber",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"[+15]% Strength <when defending>"
 		],
 		"attackSound": "machinegun"
@@ -1076,7 +1076,7 @@
 		"requiredTech": "Metagenetics",
 		"uniques": [
 			"Bio",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"[+50]% Strength <vs [Bomber] units>",
