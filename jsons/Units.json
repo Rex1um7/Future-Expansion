@@ -36,8 +36,9 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Recon",
 		"uniques": [
-			"May upgrade to [Archer] through ruins-like effects",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"May upgrade to [Archer] through ruins-like effects"
+			
 		],
 		"promotions": [
 			"Ignore terrain cost"
@@ -67,7 +68,7 @@
 		"obsoleteTech": "Satellites",
 		"upgradesTo": "Paratrooper",
 		"uniques": [
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit"
 		],
 		"promotions": [
 			"Skirmish",
@@ -88,10 +89,11 @@
 			"Support Unit"
 		],
 		"uniques": [
+			"Never appears as a Barbarian unit",
 			"All adjacent units heal [+10] HP when healing <before adopting [Collectivization]>",
 			"All adjacent units heal [+20] HP when healing <after adopting [Collectivization]>",
-			"Uncapturable",
-			"Never appears as a Barbarian unit"
+			"Uncapturable"
+			
 		]
 	},
 	{
@@ -165,10 +167,11 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Tank",
 		"uniques": [
+			//"Never appears as a Barbarian unit",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"[-33]% Strength <vs cities> <when attacking>",
-			"Never appears as a Barbarian unit"
+			"[-33]% Strength <vs cities> <when attacking>"
+			
 		],
 		"attackSound": "horse"
 	},
@@ -231,13 +234,14 @@
 		"upgradesTo": "Drone",
 		"uniques": [
 			"Intel",
+			"Never appears as a Barbarian unit",
 			"+1 Range to adjacent Siege Units",
 			"[+33]% Strength bonus for [Siege] units within [1] tiles",
 			"[+1] Sight",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
-			"Never appears as a Barbarian unit"
+			
 		]
 	},
 	{
@@ -253,11 +257,12 @@
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Nanotechnology",
 		"uniques": [
+			//"Never appears as a Barbarian unit",
 			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"[-1] Sight",
-			"Never appears as a Barbarian unit"
+			"[-1] Sight"
+			
 		],
 		"promotions": [
 			"Indirect Fire"
@@ -274,8 +279,9 @@
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"uniques": [
-			"Only available <if [GP-Great War] is constructed>",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"Only available <if [GP-Great War] is constructed>"
+			
 		],
 		"attackSound": "shot"
 	},
@@ -347,11 +353,11 @@
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
 		"uniques": [
+			//"Never appears as a Barbarian unit",
 			"[+33]% Strength <vs [Land] units>",
 			"Ignores Zone of Control",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"Never appears as a Barbarian unit",
 			"Only available <if [EP-Early Vehicles] is constructed>"
 		],
 		"attackSound": "tankshot"
@@ -369,7 +375,7 @@
 		"upgradesTo": "Missile Cruiser",
 		"obsoleteTech": "Robotics",
 		"uniques": [
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit"
 		],
 		"promotions": [
 			"Indirect Fire"
@@ -453,10 +459,10 @@
 		],
 		"uniques": [
 			"Anti-Air",
-			"+33% Strength to adjacent Land Units vs Air units",
+			//"Never appears as a Barbarian unit",
+			"[+33]% Strength to adjacent Land Units vs Air units",
 			"[100]% chance to intercept air attacks",
-			"[+100]% Strength <vs [Air] units>",
-			"Never appears as a Barbarian unit"
+			"[+100]% Strength <vs [Air] units>"
 		]
 	},
 	{
@@ -469,12 +475,12 @@
 		"requiredResource": "Iron",
 		"upgradesTo": "Modern Armor",
 		"uniques": [
+			//"Never appears as a Barbarian unit",
 			"[+33]% Strength <vs [Land] units>",
 			"Ignores Zone of Control",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"Consumes [1] [Oil]",
-			"Never appears as a Barbarian unit"
+			"Consumes [1] [Oil]"
 		],
 		"attackSound": "tankshot"
 	},
@@ -525,8 +531,8 @@
 			"Skirmish"
 		],
 		"uniques": [
-			"May Paradrop up to [9] tiles from inside friendly territory",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit",
+			"May Paradrop up to [9] tiles from inside friendly territory"
 		],
 		"attackSound": "shot"
 	},
@@ -554,9 +560,9 @@
 		"obsoleteTech": "Clean Energy",
 		"uniques": [
 			"Cyber",
+			"Never appears as a Barbarian unit",
 			"[+33]% Strength <vs [Ranged] units>",
-			"Can carry [2] [Aircraft] units",
-			"Never appears as a Barbarian unit"
+			"Can carry [2] [Aircraft] units"
 		]
 	},
 	{
@@ -568,8 +574,8 @@
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Helicopter Gunship",
 		"uniques": [
-			"[+200]% Strength <vs [Armored] units>",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"[+200]% Strength <vs [Armored] units>"
 		],
 		"attackSound": "machinegun"
 	},
@@ -608,12 +614,12 @@
 		"requiredResource": "Iron",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Consumes [1] [Aluminum]",
 			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-1] Sight",
-			"[+1] Range <after discovering [Advanced Ballistics]>",
-			"Never appears as a Barbarian unit"
+			"[+1] Range <after discovering [Advanced Ballistics]>"
 		],
 		"promotions": [
 			"Indirect Fire"
@@ -634,11 +640,11 @@
 		],
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Anti-Air",
 			"+33% Strength to adjacent Land Units vs Air units",
 			"[100]% chance to intercept air attacks",
-			"[+150]% Strength <vs [Air] units>",
-			"Never appears as a Barbarian unit"
+			"[+150]% Strength <vs [Air] units>"
 		]
 	},
 	{
@@ -668,14 +674,14 @@
 		"requiredTech": "Computers",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Consumes [2] [Aluminum]",
 			"[+100]% Strength <vs [Armored] units>",
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
-			"Unable to capture cities",
-			"Never appears as a Barbarian unit"
+			"Unable to capture cities"
 		],
 		"attackSound": "machinegun",
 		"civilopediaText": [
@@ -697,14 +703,14 @@
 		"upgradesTo": "Future Submarine",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Consumes [1] [Uranium]",
 			"[+75]% Strength <when attacking>",
 			"Can only attack [Water] tiles",
 			"Can move after attacking",
 			"[+1] Sight",
 			"Can carry [2] [Missile] units",
-			"Ignores Zone of Control",
-			"Never appears as a Barbarian unit"
+			"Ignores Zone of Control"
 		],
 		"attackSound": "torpedo"
 	},
@@ -738,13 +744,13 @@
 		"requiredTech": "Computers",
 		"uniques": [
 			"Intel",
+			//"Never appears as a Barbarian unit",
 			"+1 Range to adjacent Siege Units",
 			"[+33]% Strength bonus for [Siege] units within [1] tiles",
 			"[+1] Sight",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
-			"Ignores Zone of Control",
-			"Never appears as a Barbarian unit"
+			"Ignores Zone of Control"
 		]
 	},
 	{
@@ -759,12 +765,12 @@
 		"requiredTech": "Robotics",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Consumes [1] [Aluminum]",
 			"[100]% chance to intercept air attacks",
 			"Can see invisible [Submarine] units",
 			"Can carry [3] [Missile] units",
-			"[+100]% Strength <vs [Submarine] units>",
-			"Never appears as a Barbarian unit"
+			"[+100]% Strength <vs [Submarine] units>"
 		],
 		"promotions": [
 			"Indirect Fire"
@@ -784,9 +790,9 @@
 		"uniques": [
 			"Cyber",
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
-			"25% Chance for Adjacent units to capture Killed Cyber unit",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"[+33]% Strength for adjacent non-air Units vs Cyber units",
+			"25% Chance for Adjacent units to capture Killed Cyber unit"
 		]
 	},
 	{
@@ -808,12 +814,12 @@
 		"requiredResource": "Aluminum",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"[+33]% Strength <vs [Land] units>",
 			"Ignores Zone of Control",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"Consumes [1] [Oil]",
-			"Never appears as a Barbarian unit"
+			"Consumes [1] [Oil]"
 		],
 		"attackSound": "tankshot"
 	},
@@ -848,10 +854,10 @@
 			"Support Unit"
 		],
 		"uniques": [
+			//"Never appears as a Barbarian unit",
 			"All adjacent units heal [+15] HP when healing <before adopting [Collectivization]>",
 			"All adjacent units heal [+30] HP when healing <after adopting [Collectivization]>",
-			"Uncapturable",
-			"Never appears as a Barbarian unit"
+			"Uncapturable"
 		]
 	},
 	{
@@ -864,12 +870,12 @@
 		"uniques": [
 			"Cyber",
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
+			//"Never appears as a Barbarian unit",
+			"[+33]% Strength for adjacent non-air Units vs Cyber units",
 			"25% Chance for Adjacent units to capture Killed Cyber unit",
 			"May withdraw before melee ([50]%)",
 			"Can see invisible [Military] units",
-			"Only available <if [GP-Stealth Operatives] is constructed>",
-			"Never appears as a Barbarian unit"
+			"Only available <if [GP-Stealth Operatives] is constructed>"
 		],
 		"promotions": [
 			"Stealth",
@@ -925,8 +931,8 @@
 		"requiredTech": "Enhancing",
 		"uniques": [
 			"Bio",
-			"Heals [25] damage if it kills a unit",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"Heals [25] damage if it kills a unit"
 		],
 		"promotions": [
 			"Implants"
@@ -942,15 +948,14 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"Never appears as a Barbarian unit",
 			"[+33]% Strength <vs [Land] units>",
 			"Ignores Zone of Control",
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"Only available <if [GP-Hovercombat] is constructed>",
-			"Never appears as a Barbarian unit"
+			"Only available <if [GP-Hovercombat] is constructed>"
 		],
 		"promotions": [
 			"Amphibious",
@@ -966,9 +971,9 @@
 		"cost": 500,
 		"requiredTech": "Lasers",
 		"uniques": [
+			"Never appears as a Barbarian unit",
 			"May Paradrop up to [40] tiles from inside friendly territory",
-			"No movement cost to pillage",
-			"Never appears as a Barbarian unit"
+			"No movement cost to pillage"
 		],
 		"promotions": [
 			"Skirmish",
@@ -987,11 +992,11 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-1] Sight",
-			"Only available <if [GP-Hovercombat] is constructed>",
-			"Never appears as a Barbarian unit"
+			"Only available <if [GP-Hovercombat] is constructed>"
 		],
 		"promotions": [
 			"Indirect Fire",
@@ -1010,12 +1015,12 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Anti-Air",
-			"+33% Strength to adjacent Land Units vs Air units",
+			"[+33]% Strength to adjacent Land Units vs Air units",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
-			"Only available <if [GP-Hovercombat] is constructed>",
-			"Never appears as a Barbarian unit"
+			"Only available <if [GP-Hovercombat] is constructed>"
 		],
 		"promotions": [
 			"Support Unit",
@@ -1036,8 +1041,8 @@
 		"requiredTech": "Automation",
 		"uniques": [
 			"Cyber",
-			"[+15]% Strength <when defending>",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"[+15]% Strength <when defending>"
 		],
 		"attackSound": "machinegun"
 	},
@@ -1049,11 +1054,11 @@
 		"cost": 375,
 		"uniques": [
 			"Bio",
+			//"Never appears as a Barbarian unit",
 			"Only available <if [EP-Genetic Engineering] is constructed>",
 			"Can see invisible [Wounded] units",
 			"Can move after attacking",
-			"Heals [25] damage if it kills a unit",
-			"Never appears as a Barbarian unit"
+			"Heals [25] damage if it kills a unit"
 		],
 		"promotions": [
 			"Amphibious"
@@ -1070,12 +1075,12 @@
 		"requiredTech": "Metagenetics",
 		"uniques": [
 			"Bio",
+			//"Never appears as a Barbarian unit",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"[+50]% Strength <vs [Bomber] units>",
 			"Can move after attacking",
-			"Heals [25] damage if it kills a unit",
-			"Never appears as a Barbarian unit"
+			"Heals [25] damage if it kills a unit"
 		],
 		"promotions": [
 			"Sortie",
@@ -1091,8 +1096,8 @@
 		"cost": 600,
 		"requiredResource": "Composites",
 		"uniques": [
-			"Only available <if [GP-Energy Weapons] is constructed>",
-			"Never appears as a Barbarian unit"
+			//"Never appears as a Barbarian unit",
+			"Only available <if [GP-Energy Weapons] is constructed>"
 		],
 		"promotions": [
 			"Energy Weapons",
@@ -1111,6 +1116,7 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Only available <if [GP-Energy Weapons] is constructed>",
 			"[+100]% Strength <vs [Armored] units>",
 			"[+75]% Strength <vs [Fighter] units>",
@@ -1118,8 +1124,7 @@
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
-			"Unable to capture cities",
-			"Never appears as a Barbarian unit"
+			"Unable to capture cities"
 		],
 		"promotions": [
 			"Energy Weapons",
@@ -1141,6 +1146,7 @@
 		"uniques": [
 			"Cyber",
 			"Space",
+			//"Never appears as a Barbarian unit",
 			"Only available <if [GP-Energy Weapons] is constructed>",
 			"No defensive terrain bonus",
 			"Can move after attacking",
@@ -1148,8 +1154,7 @@
 			"Ignores Zone of Control",
 			"Can carry [2] [Aircraft] units",
 			"[100]% chance to intercept air attacks",
-			"[+25]% Strength <vs [Air] units>",
-			"Never appears as a Barbarian unit"
+			"[+25]% Strength <vs [Air] units>"
 		],
 		"promotions": [
 			"In Orbit",
@@ -1211,11 +1216,11 @@
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Composites",
 		"uniques": [
-			"Consumes [2] [Uranium]",
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Can move after attacking",
 			"Can carry [1] [Missile] units",
-			"Never appears as a Barbarian unit"
+			"Consumes [2] [Uranium]"
 		],
 		"promotions": [
 			"Scan Visor",
@@ -1235,13 +1240,13 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Only available <if [EP-Cyber Engineering] is constructed>",
 			"[+75]% Strength <when attacking>",
 			"Can move after attacking",
 			"[+1] Sight",
 			"Can carry [2] [Missile] units",
-			"Ignores Zone of Control",
-			"Never appears as a Barbarian unit"
+			"Ignores Zone of Control"
 		],
 		"attackSound": "torpedo"
 	},
@@ -1447,11 +1452,11 @@
 		"requiredTech": "Enhancing",
 		"uniques": [
 			"Bio",
+			//"Never appears as a Barbarian unit",
 			"Heals [25] damage if it kills a unit",
 			"May capture killed [Land] units <with [44]% chance>",
 			"Will not be displayed in Civilopedia",
-			"Only available <if [Monolith Portal] is constructed>",
-			"Never appears as a Barbarian unit"
+			"Only available <if [Monolith Portal] is constructed>"
 		],
 		"promotions": [
 			"Implants"
@@ -1497,7 +1502,8 @@
 		"requiredBuilding": "Monolith Portal",
 		"uniques": [
 			"Hacker",
-			"+33% Strength for adjacent non-air Units vs Cyber units",
+			//"Never appears as a Barbarian unit",
+			"[+33]% Strength for adjacent non-air Units vs Cyber units",
 			"25% Chance for Adjacent units to capture Killed Cyber unit",
 			"Can see invisible [Stealth Support] units",
 			"Invisible to non-adjacent units",
@@ -1506,8 +1512,7 @@
 			"[+50]% Strength <vs [Cyber] units>",
 			"[+25]% Strength <vs [Land] units> <when attacking>",
 			"Will not be displayed in Civilopedia",
-			"Only available <if [Monolith Portal] is constructed>",
-			"Never appears as a Barbarian unit"
+			"Only available <if [Monolith Portal] is constructed>"
 		],
 		"promotions": [
 			"Support Unit"
@@ -1548,11 +1553,11 @@
 		"requiredTech": "Nanotechnology",
 		"uniques": [
 			"Cyber",
+			//"Never appears as a Barbarian unit",
 			"Can move after attacking",
 			"Uncapturable",
 			"[+100]% Strength <vs [Air] units>",
 			"May capture killed [Land] units <with [22]% chance>",
-			"Never appears as a Barbarian unit",
 			"Will not be displayed in Civilopedia",
 			"Only available <if [Monolith Portal] is constructed>"
 		],
