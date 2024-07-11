@@ -6,7 +6,8 @@
 		"movement": 2,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
-			"[+1] Movement <after discovering [Combustion]>"
+			"[+1] Movement <after discovering [Combustion]>",
+			"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed> <upon discovering [Construction] technology>"
 		],
 		"upgradesTo": "Architect",
 		"cost": 70
@@ -21,9 +22,9 @@
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
 			"Can enter ice tiles <upon entering the [Atomic era]>",
 			"May create improvements on water resources",
-			"Can instantly construct a [Offshore Wind Farm] improvement <by consuming this unit> <after discovering [Terraforming]>",
-			"Turn this tile into a [Ocean] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>",
-			"Turn this tile into a [Coast] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>"
+			"Can instantly construct a [Offshore Wind Farm] improvement <by consuming this unit> <after discovering [Terraforming]>"
+			/*"Turn this tile into a [Ocean] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>",
+			"Turn this tile into a [Coast] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>"*/
 			//"Uncapturable"
 		]
 	},
