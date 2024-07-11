@@ -871,8 +871,8 @@
 		"uniques": [
 			"Cyber",
 			"Hacker",
-			//"Never appears as a Barbarian unit",
-			"[+33]% Strength for adjacent non-air Units vs Cyber units",
+			"Never appears as a Barbarian unit",
+			"[+33]% Strength bonus for [non-Air] units <vs [Cyber] units> within [1] tiles",
 			"25% Chance for Adjacent units to capture Killed Cyber unit",
 			"May withdraw before melee ([50]%)",
 			"Can see invisible [Military] units",
@@ -1016,9 +1016,9 @@
 		"requiredResource": "Composites",
 		"uniques": [
 			"Cyber",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Anti-Air",
-			"[+33]% Strength to adjacent Land Units vs Air units",
+			"[+33]% Strength bonus for [Land] units <vs [Air] units> within [1] tiles",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"Only available <if [GP-Hovercombat] is constructed>"
@@ -1055,7 +1055,7 @@
 		"cost": 375,
 		"uniques": [
 			"Bio",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Only available <if [EP-Genetic Engineering] is constructed>",
 			"Can see invisible [Wounded] units",
 			"Can move after attacking",
