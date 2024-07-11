@@ -258,7 +258,7 @@
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Nanotechnology",
 		"uniques": [
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
@@ -354,7 +354,7 @@
 		"upgradesTo": "Tank",
 		"obsoleteTech": "Combined Arms",
 		"uniques": [
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"[+33]% Strength <vs [Land] units>",
 			"Ignores Zone of Control",
 			"Can move after attacking",
