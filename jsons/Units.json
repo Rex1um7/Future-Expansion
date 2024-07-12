@@ -461,7 +461,7 @@
 		"uniques": [
 			"Anti-Air",
 			//"Never appears as a Barbarian unit",
-			"[+33]% Strength to adjacent Land Units vs Air units",
+			"[+33]% Strength bonus for [Land] units within [1] tiles <vs [Air] units>",
 			"[100]% chance to intercept air attacks",
 			"[+100]% Strength <vs [Air] units>"
 		]
@@ -792,7 +792,7 @@
 			"Cyber",
 			"Hacker",
 			//"Never appears as a Barbarian unit",
-			"[+33]% Strength for adjacent non-air Units vs Cyber units",
+			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
 			"25% Chance for Adjacent units to capture Killed Cyber unit"
 		]
 	},
@@ -1504,8 +1504,8 @@
 		"uniques": [
 			"Hacker",
 			//"Never appears as a Barbarian unit",
-			"[+33]% Strength for adjacent non-air Units vs Cyber units",
-			"25% Chance for Adjacent units to capture Killed Cyber unit",
+			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
+			"May capture killed [Cyber] units <when adjacent to a [Wounded] unit> <with [25]% chance>",
 			"Can see invisible [Stealth Support] units",
 			"Invisible to non-adjacent units",
 			"[50]% chance to intercept air attacks",
