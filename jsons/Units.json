@@ -236,7 +236,7 @@
 		"uniques": [
 			"Intel",
 			"Never appears as a Barbarian unit",
-			"+1 Range to adjacent Siege Units",
+			//"[+1] Range to adjacent [Siege] Units",
 			"[+33]% Strength bonus for [Siege] units within [1] tiles",
 			"[+1] Sight",
 			"No defensive terrain bonus",
@@ -643,7 +643,7 @@
 			"Cyber",
 			//"Never appears as a Barbarian unit",
 			"Anti-Air",
-			"+33% Strength to adjacent Land Units vs Air units",
+			"[+33]% Strength bonus for [Land] Units <vs [Air] units> within [1] tiles",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>"
 		]
