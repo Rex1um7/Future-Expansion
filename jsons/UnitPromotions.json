@@ -31,7 +31,7 @@
 	{
 		"name": "Amphibious",
 		"uniques": [
-			"Normal vision when embarked",
+			"[+1] Sight <when [Embarked]>",
 			"Defense bonus when embarked"
 		]
 	},
