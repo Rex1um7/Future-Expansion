@@ -7,6 +7,7 @@
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"[+1] Movement <after discovering [Combustion]>",
+			"Can pass through impassable tiles <after discovering [Construction]>",
 			"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed> <upon discovering [Construction] technology>"
 		],
 		"upgradesTo": "Architect",
@@ -23,8 +24,8 @@
 			"Can enter ice tiles <upon entering the [Atomic era]>",
 			"May create improvements on water resources",
 			"Can instantly construct a [Offshore Wind Farm] improvement <by consuming this unit> <after discovering [Terraforming]>"
-			/*"Turn this tile into a [Ocean] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>",
-			"Turn this tile into a [Coast] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>"*/
+			//"Turn this tile into a [Ocean] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>",
+			//"Turn this tile into a [Coast] tile <[2] times> <after which this unit is consumed> <upon entering the [Atomic era]>"
 			//"Uncapturable"
 		]
 	},
@@ -258,7 +259,7 @@
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Nanotechnology",
 		"uniques": [
-			"Never appears as a Barbarian unit",
+			//"Never appears as a Barbarian unit",
 			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
@@ -363,7 +364,7 @@
 		],
 		"attackSound": "tankshot"
 	},
-	{
+	/*{
 		"name": "Battleship",
 		"unitType": "Ranged Water",
 		"movement": 5,
@@ -383,7 +384,7 @@
 		],
 		"attackSound": "shipguns"
 		//Does **actually** upgrade to Missile Cruiser, now.
-	},
+	},*/
 	{
 		"name": "Musician",
 		"unitType": "Civilian",
@@ -532,7 +533,7 @@
 			"Skirmish"
 		],
 		"uniques": [
-			"Never appears as a Barbarian unit",
+			//"Never appears as a Barbarian unit",
 			"May Paradrop up to [9] tiles from inside friendly territory"
 		],
 		"attackSound": "shot"
@@ -543,6 +544,8 @@
 		"movement": 3,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
+			"Can pass through impassable tiles",
+			"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed>",
 			"Can instantly construct a [Power Plant] improvement <by consuming this unit>",
 			"Can instantly construct a [Water Tower] improvement <by consuming this unit>",
 			"Can instantly construct a [Industrial Complex] improvement <by consuming this unit>",
