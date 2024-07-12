@@ -285,6 +285,23 @@
 		],
 		"shortcutKey": "H"
 	},
+
+	//removal 
+	{
+		"name": "Remove Ice",
+		"turnsToBuild": 3,
+		"terrainsCanBeBuiltOn": [
+			"Coast",
+			"Ocean"
+		],
+		"techRequired": "Terraforming",
+		"uniques": [
+			"Can be built outside your borders",
+                        "Excluded from map editor"
+		]
+                
+	},
+	
 	//Resource-Specific
 	{
 		"name": "Pasture",
