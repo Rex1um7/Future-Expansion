@@ -795,7 +795,7 @@
 			"Hacker",
 			//"Never appears as a Barbarian unit",
 			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
-			"May capture Killed [Cyber] unit <when adjacent to a [All] unit> <with [25]% chance>"
+			"May capture killed [Cyber] unit <when adjacent to a [All] unit> <with [25]% chance>"
 		]
 	},
 	{
@@ -875,7 +875,7 @@
 			"Hacker",
 			"Never appears as a Barbarian unit",
 			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
-			"May capture Killed [Cyber] unit <when adjacent to a [All] unit> <with [25]% chance>",
+			"May capture killed [Cyber] unit <when adjacent to a [All] unit> <with [25]% chance>",
 			"May withdraw before melee ([50]%)",
 			"Can see invisible [Military] units",
 			"Only available <if [GP-Stealth Operatives] is constructed>"
@@ -1479,7 +1479,7 @@
 		"uniques": [
 			"Hacker",
 			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>", 
-			"May capture Killed [Cyber] unit <when adjacent to a [All] unit> <with [25]% chance>",
+			"May capture killed [Cyber] unit <when adjacent to a [All] unit> <with [25]% chance>",
 			"Can see invisible [All] units",
 			"Invisible to non-adjacent units",
 			"[50]% chance to intercept air attacks",
