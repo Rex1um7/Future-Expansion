@@ -294,7 +294,7 @@
 			"Coast",
 			"Ocean"
 		],
-		"techRequired": "Combustion, Nuclear Fission",
+		"techRequired": "Combustion","Nuclear Fission",
 		"uniques": [
 			"Can be built outside your borders",
                         "Excluded from map editor"
