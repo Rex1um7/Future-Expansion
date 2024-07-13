@@ -289,14 +289,15 @@
 	//removal 
 	{
 		"name": "Remove Ice",
-		"turnsToBuild": 3,
+		"turnsToBuild": 4,
 		"terrainsCanBeBuiltOn": [
 			"Coast",
 			"Ocean"
 		],
-		"techRequired": "Combustion","Nuclear Fission",
+		"techRequired": "Combustion",
 		"uniques": [
 			"Can be built outside your borders",
+			"Can only be built on [Ice] tiles",
                         "Excluded from map editor"
 		]
                 
