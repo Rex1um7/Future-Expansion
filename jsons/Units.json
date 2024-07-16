@@ -1062,9 +1062,9 @@
 			"Can see invisible [Wounded] units",
 			"Can move after attacking",
 			"Uncapturable",
-			"[-150]% Strength <during the [Ancient era]>",        //appears as barbarians
-			"[-100]% Strength <during the [Classical era]>",
-                        "[-50]% Strength <during the [Medieval era]>",
+			"[-90]% Strength <during the [Ancient era]>",        //appears as barbarians
+			"[-50]% Strength <during the [Classical era]>",
+                        "[-25]% Strength <during the [Medieval era]>",
 			"Heals [25] damage if it kills a unit"
 		],
 		"promotions": [
