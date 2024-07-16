@@ -1057,10 +1057,13 @@
 		"cost": 375,
 		"uniques": [
 			"Bio",
-			"Never appears as a Barbarian unit",
+			//"Never appears as a Barbarian unit",
 			"Only available <if [EP-Genetic Engineering] is constructed>",
 			"Can see invisible [Wounded] units",
 			"Can move after attacking",
+			"[-225]% Strength <during the [Ancient era]>",        //appears as barbarians
+			"[-200]% Strength <during the [Classical era]>",
+                        "[-125]% Strength <during the [Medieval era]>",
 			"Heals [25] damage if it kills a unit"
 		],
 		"promotions": [
