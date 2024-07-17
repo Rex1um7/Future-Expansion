@@ -285,23 +285,6 @@
 		],
 		"shortcutKey": "H"
 	},
-
-	//removal 
-	{
-		"name": "Remove Ice",
-		"turnsToBuild": 4,
-		"terrainsCanBeBuiltOn": [
-			"Coast",
-			"Ocean"
-		],
-		"techRequired": "Combustion",
-		"uniques": [
-			"Can be built outside your borders",
-			"Can only be built on [Ice] tiles",
-                        "Excluded from map editor"
-		]
-                
-	},
 	
 	//Resource-Specific
 	{
