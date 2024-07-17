@@ -1044,7 +1044,7 @@
 		"requiredTech": "Automation",
 		"uniques": [
 			"Cyber",
-			"Never appears as a Barbarian unit",
+			//"Never appears as a Barbarian unit",
 			"[+15]% Strength <when defending>"
 		],
 		"attackSound": "machinegun"
@@ -1057,14 +1057,11 @@
 		"cost": 375,
 		"uniques": [
 			"Bio",
-			//"Never appears as a Barbarian unit",
+			"Never appears as a Barbarian unit",
 			"Only available <if [EP-Genetic Engineering] is constructed>",
 			"Can see invisible [Wounded] units",
 			"Can move after attacking",
 			"Uncapturable",
-			"[-125]% Strength <during the [Ancient era]>",        //appears as barbarians
-			"[-90]% Strength <during the [Classical era]>",
-                        "[-60]% Strength <during the [Medieval era]>",
 			"Heals [25] damage if it kills a unit"
 		],
 		"promotions": [
@@ -1082,7 +1079,7 @@
 		"requiredTech": "Metagenetics",
 		"uniques": [
 			"Bio",
-			"Never appears as a Barbarian unit",
+			//"Never appears as a Barbarian unit",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>",
 			"[+50]% Strength <vs [Bomber] units>",
