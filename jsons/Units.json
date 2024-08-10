@@ -22,8 +22,6 @@
 		"uniques": [
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
 			"Can enter ice tiles <upon entering the [Atomic era]>",
-			"Can instantly construct a [Road] improvement",
-                        "Can instantly construct a [Railroad] improvement",
 			"Can build [Remove Ice] improvements on tiles",
 			"May create improvements on water resources",
 			"Can instantly construct a [Offshore Wind Farm] improvement <by consuming this unit> <after discovering [Terraforming]>"
