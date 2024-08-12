@@ -103,7 +103,7 @@
 				{
 					"name": "Propaganda",
 					"uniques": [
-						"Doubles the combat bonus of Great General units",
+						"Great General provides double combat bonus",
 						"Free [Great General] appears"
 					],
 					"requires": [
