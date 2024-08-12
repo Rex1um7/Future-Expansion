@@ -129,8 +129,7 @@
 				{
 					"name": "Collectivization",
 					"uniques": [
-						"[+25]% Strength <for [Support] units> <when defending>",
-						"Doubles the Healing bonus from Medics and Tactical Supplier units"
+						"[+25]% Strength <for [Support] units> <when defending>"
 					],
 					"requires": [
 						"Propaganda"
