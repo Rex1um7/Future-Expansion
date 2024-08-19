@@ -1007,9 +1007,13 @@
 		"name": "AP-Museum Host",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText": [
+			{
+			"text": "Enable construction of Museum Host"
+			}
+		],
 		"uniques": [
-			"Modern Perk",
-			"Enables construction of History Museum",
+			//"Modern Perk",
 			"Provides [1] [Fossil]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
