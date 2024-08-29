@@ -962,9 +962,11 @@
 		"name": "SP-Future Power",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Energy Reactor] and [Energy Barrier]"}
+		],
 		"uniques": [
 			"Future Perk",
-			"Enables construction of [Energy Reactor] and [Energy Barrier]",
 			"[+100]% Production when constructing [Coal Plant] buildings [in all cities]",
 			"[+100]% Production when constructing [Nuclear Plant] buildings [in all cities]",
 			"[+100]% Production when constructing [Energy Reactor] buildings [in all cities]",
@@ -1009,7 +1011,7 @@
 		"cost": 1,
 		"civilopediaText": [
 			{
-			"text": "Enable construction of Museum Host"
+			"text": "Enable construction of [Museum Host]"
 			}
 		],
 		"uniques": [
@@ -1040,9 +1042,11 @@
 		"name": "AP-World Tour",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [International Pass]"}
+		],
 		"uniques": [
 			"Atomic Perk",
-			"Enables construction of International Pass",
 			"[+50]% Yield from every [Concert Venue] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
@@ -1109,9 +1113,11 @@
 		"name": "AP-Space Combat",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Orbital Fighters] and [Orbital Bombers]"}
+		],
 		"uniques": [
 			"Information Perk",
-			"Enables construction of Orbital Fighters and Orbital Bombers",
 			"[+1 Culture] from every specialist [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
@@ -1150,9 +1156,11 @@
 		"name": "EP-Early Vehicles",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Triplanes] and [Landships]"}
+		],
 		"uniques": [
 			"Modern Perk",
-			"Enables construction of Triplanes and Landships",
 			"[+5]% Strength <for [Armored] units> <during the [Modern era]>",
 			"[+5]% Strength <for [Air] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1236,9 +1244,11 @@
 		"name": "EP-Genetic Engineering",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Bio Facility] and [Seeker]"}
+		],
 		"uniques": [
 			"Future Perk",
-			"Enables construction of [Bio Facility] and [Seeker]",
 			"[+10]% [Food] [in all cities]",
 			"[+25]% Strength <for [Bio-Infantry] units>",
 			"Only available <during the [Future era]>",
@@ -1251,9 +1261,11 @@
 		"name": "EP-Cyber Engineering",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Composite Factory] and [Future Submarine]"}
+		],
 		"uniques": [
 			"Future Perk",
-			"Enables construction of [Composite Factory] and [Future Submarine]",
 			"[+10]% [Production] [in all cities]",
 			"[+25]% Strength <for [Combat Robot] units>",
 			"Only available <during the [Future era]>",
@@ -1327,9 +1339,11 @@
 		"name": "MP-Branch Companies",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Branch Office]"}
+		],
 		"uniques": [
 			"Atomic Perk",
-			"Enables construction of [Branch Office]",
 			"[+75]% Production when constructing [Corporate] units [in all cities] <during the [Atomic era]>",
 			"[Gold] cost of purchasing [Corporate] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -1384,9 +1398,11 @@
 		"name": "MP-Desalination",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Adaptive Base]"}
+		],
 		"uniques": [
 			"Future Perk",
-			"Enables construction of [Adaptive Base]",
 			"[+1 Food, +2 Gold] from every [Coast]",
 			"[+1 Food, +2 Gold] from every [Ocean]",
 			"Only available  <during the [Future era]>",
