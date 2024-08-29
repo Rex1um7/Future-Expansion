@@ -2,7 +2,7 @@
 	{
 		"name": "Heal Instantly",
 		"uniques": [
-			"Heal this unit by [50] HP",
+			"[This Unit] heals [50] HP",
 			"Doing so will consume this opportunity to choose a Promotion"
 		],
 		"unitTypes": [
@@ -107,7 +107,7 @@
 		"uniques": [
 			"[+1] Movement",
 			"May Paradrop up to [100] tiles from inside friendly territory",
-			"May withdraw before melee ([90]%)"
+			"Withdraws before melee combat <with [90]% chance>"
 		]
 	},
 	{
@@ -119,7 +119,7 @@
 	{
 		"name": "Skirmish",
 		"uniques": [
-			"May withdraw before melee ([33]%)"
+			"Withdrwas before melee combat <with [33]% chance>"
 		]
 	},
 	//Carrier
