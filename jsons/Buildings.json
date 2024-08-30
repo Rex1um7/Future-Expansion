@@ -1161,7 +1161,7 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"civilopediaText":[
-			{"text": "Enables construction of [Triplanes] and [Landships]"}
+			{"text": "Enables construction of [Triplane] and [Landship]"}
 		],
 		"uniques": [
 			"Modern Perk",
@@ -1600,9 +1600,11 @@
 		"name": "GP-Great War",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText": [
+			{"text": "Enables construction of [Great War Infantry] and [Great War Bomber]"}
+		]
 		"uniques": [
 			"Modern Perk",
-			"Enables construction of Great War Infantry and Great War Bombers",
 			"[+10]% Strength <for [Military] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
@@ -1672,9 +1674,12 @@
 		"name": "GP-Stealth Operatives",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Stealth Bombers] and [Stealth Hackers]"}
+		],
 		"uniques": [
 			"Information Perk",
-			"Enables construction of Stealth Bombers and Stealth Hackers",
+			
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
@@ -1686,9 +1691,11 @@
 		"name": "GP-Hovercombat",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Hovertank], [Hovertillery], and [Hover-SAM]"}
+		],
 		"uniques": [
 			"Future Perk",
-			"Enables construction of Hovertank, Hovertillery, and Hover-SAM",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
@@ -1700,9 +1707,11 @@
 		"name": "GP-Energy Weapons",
 		"isNationalWonder": true,
 		"cost": 1,
+		"civilopediaText":[
+			{"text": "Enables construction of [Energy Infantry], [Future Copter], and [Orbital Carrier]"}
+		]
 		"uniques": [
 			"Future Perk",
-			"Enables construction of Energy Infantry, Future Copter, and Orbital Carrier",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
