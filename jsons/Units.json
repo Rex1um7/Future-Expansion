@@ -254,7 +254,6 @@
 		"requiredTech": "Dynamite",
 		"requiredResource": "Iron",
 		"upgradesTo": "Rocket Artillery",
-		"obsoleteTech": "Nanotechnology",
 		"uniques": [
 			//"Never appears as a Barbarian unit",
 			"[+200]% Strength <vs cities> <when attacking>",
