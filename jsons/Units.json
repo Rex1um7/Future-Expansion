@@ -6,9 +6,7 @@
 		"movement": 2,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
-			"[+1] Movement <after discovering [Combustion]>",
-			"Can pass through impassable tiles <after discovering [Construction]>",
-			"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed> <after discovering [Construction]>"
+			"[+1] Movement <after discovering [Combustion]>"
 		],
 		"upgradesTo": "Architect",
 		"cost": 70
