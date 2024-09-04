@@ -561,8 +561,8 @@
 		],
 		"uniques": [
 			//"Will not be displayed in Civilopedia",
-			"Must have an owned [Alien Monolith] within [3] tiles"
-			
+			//"Must have an owned [Alien Monolith] within [3] tiles",
+			"Hidden until [5] social policy branches have been completed"
 		]
 	},
 	//World Wonders
