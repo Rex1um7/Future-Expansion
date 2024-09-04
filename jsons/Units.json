@@ -6,7 +6,6 @@
 		"movement": 2,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
-			"[+1] Movement <after discovering [Combustion]>"
 		],
 		"upgradesTo": "Architect",
 		"cost": 70
@@ -539,6 +538,7 @@
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"Can pass through impassable tiles",
+			"[-33]% construction time for [All] improvements",
 			"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed>",
 			"Can instantly construct a [Power Plant] improvement <by consuming this unit>",
 			"Can instantly construct a [Water Tower] improvement <by consuming this unit>",
@@ -853,6 +853,7 @@
 		],
 		"uniques": [
 			//"Never appears as a Barbarian unit",
+			"Can carry [2] [Land] units",
 			"All adjacent units heal [+15] HP when healing <before adopting [Collectivization]>",
 			"All adjacent units heal [+30] HP when healing <after adopting [Collectivization]>",
 			"Uncapturable"
