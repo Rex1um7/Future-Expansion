@@ -1013,13 +1013,9 @@
 		"name": "AP-Museum Host",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText": [
-			{
-			"text": "Enable construction of [Museum Host]"
-			}
-		],
 		"uniques": [
-			//"Modern Perk",
+			"Modern Perk",
+			"Enable construction of [Museum Host]",
 			"Provides [1] [Fossil]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
