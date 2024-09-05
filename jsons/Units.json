@@ -853,7 +853,7 @@
 		],
 		"uniques": [
 			//"Never appears as a Barbarian unit",
-			"Can carry [2] [Land] units",
+			"Can carry [2] [Gunpowder] units",
 			"All adjacent units heal [+15] HP when healing <before adopting [Collectivization]>",
 			"All adjacent units heal [+30] HP when healing <after adopting [Collectivization]>",
 			"Uncapturable"
