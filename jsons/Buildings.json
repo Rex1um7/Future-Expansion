@@ -542,10 +542,8 @@
 		"name": "Time Machine Blueprints",
 		"cost": 1600,
 		"isNationalWonder": true,
-        "civilopediaText":[
-			{"text": "Enables construction of Time Machine Parts"}
-		],
 	    "uniques": [
+		        "Enables construction of Time Machine Parts",
 			"Triggers a global alert upon completion",
 			"Only available <starting from the [Future era]>",
 			"Hidden when [Scientific] Victory is disabled"
@@ -556,12 +554,10 @@
 		"cost": 1600,
 		"requiredTech": "Nanotechnology",
 		"isWonder": true,
-		"civilopediaText":[
-			{"text": "Enables construction of Monolith Aliens"}
-		],
 		"uniques": [
 			//"Will not be displayed in Civilopedia",
 			//"Must have an owned [Alien Monolith] within [3] tiles",
+			"Enables construction of Monolith Aliens",
 			"Hidden until [5] social policy branches have been completed"
 		]
 	},
@@ -1015,7 +1011,7 @@
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
-			"Enable construction of [Museum Host]",
+			"Enable construction of [History Museum]",
 			"Provides [1] [Fossil]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
@@ -1042,11 +1038,9 @@
 		"name": "AP-World Tour",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [International Pass]"}
-		],
 		"uniques": [
 			"Atomic Perk",
+			"Enables construction of [International Pass]",
 			"[+50]% Yield from every [Concert Venue] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
@@ -1113,11 +1107,9 @@
 		"name": "AP-Space Combat",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Orbital Fighters] and [Orbital Bombers]"}
-		],
 		"uniques": [
 			"Information Perk",
+			"Enables construction of [Orbital Fighters] and [Orbital Bombers]",
 			"[+1 Culture] from every specialist [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
@@ -1156,11 +1148,9 @@
 		"name": "EP-Early Vehicles",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Triplane] and [Landship]"}
-		],
 		"uniques": [
 			"Modern Perk",
+			"Enables construction of [Triplane] and [Landship]",
 			"[+5]% Strength <for [Armored] units> <during the [Modern era]>",
 			"[+5]% Strength <for [Air] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1244,11 +1234,9 @@
 		"name": "EP-Genetic Engineering",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Bio Facility] and [Seeker]"}
-		],
 		"uniques": [
 			"Future Perk",
+			"Enables construction of [Bio Facility] and [Seeker]",
 			"[+10]% [Food] [in all cities]",
 			"[+25]% Strength <for [Bio-Infantry] units>",
 			"Only available <during the [Future era]>",
@@ -1261,11 +1249,9 @@
 		"name": "EP-Cyber Engineering",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Composite Factory] and [Future Submarine]"}
-		],
 		"uniques": [
 			"Future Perk",
+			"Enables construction of [Composite Factory] and [Future Submarine]",
 			"[+10]% [Production] [in all cities]",
 			"[+25]% Strength <for [Combat Robot] units>",
 			"Only available <during the [Future era]>",
@@ -1339,11 +1325,9 @@
 		"name": "MP-Branch Companies",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Branch Office]"}
-		],
 		"uniques": [
 			"Atomic Perk",
+			"Enables construction of [Branch Office]",
 			"[+75]% Production when constructing [Corporate] units [in all cities] <during the [Atomic era]>",
 			"[Gold] cost of purchasing [Corporate] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
@@ -1398,11 +1382,9 @@
 		"name": "MP-Desalination",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Adaptive Base]"}
-		],
 		"uniques": [
 			"Future Perk",
+			"Enables construction of [Adaptive Base]",
 			"[+1 Food, +2 Gold] from every [Coast]",
 			"[+1 Food, +2 Gold] from every [Ocean]",
 			"Only available  <during the [Future era]>",
@@ -1596,11 +1578,9 @@
 		"name": "GP-Great War",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText": [
-			{"text": "Enables construction of [Great War Infantry] and [Great War Bomber]"}
-		]
 		"uniques": [
 			"Modern Perk",
+			"Enables construction of [Great War Infantry] and [Great War Bomber]",
 			"[+10]% Strength <for [Military] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
@@ -1670,12 +1650,9 @@
 		"name": "GP-Stealth Operatives",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Stealth Bombers] and [Stealth Hackers]"}
-		],
 		"uniques": [
 			"Information Perk",
-			
+			"Enables construction of [Stealth Bombers] and [Stealth Hackers]",
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
@@ -1687,11 +1664,9 @@
 		"name": "GP-Hovercombat",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Hovertank], [Hovertillery], and [Hover-SAM]"}
-		],
 		"uniques": [
 			"Future Perk",
+			"Enables construction of [Hovertank], [Hovertillery], and [Hover-SAM]",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
@@ -1703,11 +1678,9 @@
 		"name": "GP-Energy Weapons",
 		"isNationalWonder": true,
 		"cost": 1,
-		"civilopediaText":[
-			{"text": "Enables construction of [Energy Infantry], [Future Copter], and [Orbital Carrier]"}
-		]
 		"uniques": [
 			"Future Perk",
+			"Enables construction of [Energy Infantry], [Future Copter], and [Orbital Carrier]",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
