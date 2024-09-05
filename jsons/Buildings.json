@@ -555,7 +555,7 @@
 		"name": "Monolith Portal",
 		"cost": 1600,
 		"requiredTech": "Nanotechnology",
-		"isNationalWonder": true,
+		"isWonder": true,
 		"civilopediaText":[
 			{"text": "Enables construction of Monolith Aliens"}
 		],
