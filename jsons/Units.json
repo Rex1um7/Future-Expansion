@@ -855,7 +855,7 @@
 			//"Never appears as a Barbarian unit",
 			"Can carry [2] [Gunpowder] units",
 			"Can carry [2] [Sword] units",
-			"Can carry [1] extra [{Land}{Ranged}] units",
+			"Can carry [1] extra [{Ranged} {Land}] units",
 			"All adjacent units heal [+15] HP when healing <before adopting [Collectivization]>",
 			"All adjacent units heal [+30] HP when healing <after adopting [Collectivization]>",
 			"Uncapturable"
