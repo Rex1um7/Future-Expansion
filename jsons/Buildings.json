@@ -558,6 +558,7 @@
 			//"Will not be displayed in Civilopedia",
 			//"Must have an owned [Alien Monolith] within [3] tiles",
 			"Enables construction of Monolith Aliens",
+			"Triggers a global alert upon build start",
 			"Hidden until [5] social policy branches have been completed"
 		]
 	},
