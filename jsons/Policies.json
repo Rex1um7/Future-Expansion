@@ -153,7 +153,9 @@
 					"name": "Dual Strike",
 					"uniques": [
 						"[-35]% Strength <for units with [Logistics]> <when attacking>",
-						"All newly-trained [relevant] units [in all cities] receive the [Logistics] promotion"
+						"[-35]% Strength <for units with [Blitz]> <when attacking>",
+						"All newly-trained [relevant] units [in all cities] receive the [Logistics] promotion",
+						"All newly-trained [relevant] units [in all cities] receive the [Blitz] promotion",
 					],
 					"requires": [
 						"Censor",
@@ -171,7 +173,7 @@
 			]
 		},
 		{
-			"name": "Futurism",
+			"name": "Futurismo",
 			"era": "Future era",
 			"uniques": [
 				"Provides a [Corporate Slot] in your first [1] cities for free",
@@ -194,7 +196,7 @@
 						"[+25]% [Culture] from every [Space Station]"
 					],
 					"requires": [
-						"Futurism"
+						"Futurismo"
 					],
 					"row": 1,
 					"column": 2
@@ -207,7 +209,7 @@
 						"[+25]% Strength <for [Wounded] units> <vs [Cyber] units>"
 					],
 					"requires": [
-						"Futurism"
+						"Futurismo"
 					],
 					"row": 1,
 					"column": 4
@@ -251,7 +253,7 @@
 					"column": 3
 				},
 				{
-					"name": "Futurism Complete",
+					"name": "Futurismo Complete",
 					"uniques": [
 						"[+25]% Strength <for units with [Energy Weapons]>",
 						"May buy [Great Spacefarer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
@@ -268,7 +270,7 @@
 				"[-25]% Strength <for [Bio] units>",
 				"[+20]% [Production] [in all cities]",
 				"[-15]% growth [in all cities]",
-				"Only available <before adopting [Futurism]>",
+				"Only available <before adopting [Futurismo]>",
 				"Only available <before adopting [Transhumanism]>"
 			],
 			"priorities": {
@@ -356,7 +358,7 @@
 				"[+17]% growth [in capital]",
 				"[+25]% Strength <for [Bio] units>",
 				"[-25]% Strength <for [Cyber] units>",
-				"Only available <before adopting [Futurism]>",
+				"Only available <before adopting [Futurismo]>",
 				"Only available <before adopting [Technocracy]>"
 			],
 			"priorities": {
