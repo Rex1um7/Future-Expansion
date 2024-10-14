@@ -569,6 +569,7 @@
             "Library",
             "Colosseum",
             "Theatre",
+            "Zoo <if [Rekmod] is enabled>",
             "Bank"
         ],
         "startingObsoleteWonders": [
@@ -685,6 +686,7 @@
             "Library",
             "Colosseum",
             "Theatre",
+            "Zoo <if [Rekmod] is enabled>",
             "Bank",
             "University",
             "Opera House"
@@ -795,6 +797,7 @@
             "Library",
             "Colosseum",
             "Theatre",
+            "Zoo <if [Rekmod] is enabled>",
             "Bank"
         ],
         "startingObsoleteWonders": [
