@@ -136,7 +136,7 @@
 		"name": "Stadium",
 		"happiness": 4,
 		"cost": 500,
-		"requiredBuilding": "Theatre",
+		//"requiredBuilding": "Theatre",
 		"requiredTech": "Refrigeration",
 		"maintenance": 2,
 		"uniques": [
@@ -1315,6 +1315,7 @@
 			"Modern Perk",
 			"[+10]% [Gold] from every [Colosseum] <during the [Modern era]>",
 			"[+10]% [Gold] from every [Theatre] <during the [Modern era]>",
+			"[+10]% [Gold] from every [Zoo] <during the [Modern era]>",
 			"[+10]% [Gold] from every [Stadium] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Merchant Perk]>",
