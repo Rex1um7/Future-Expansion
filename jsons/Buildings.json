@@ -15,6 +15,14 @@
 		]
 	},
 	//Renaissance
+	{
+		"name": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
 	//Industrial
 	{
 		"name": "Museum",
