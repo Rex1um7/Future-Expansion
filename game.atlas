@@ -1978,7 +1978,7 @@ TileSets/HexaRealm/Tiles/Wind Farm
   orig: 64, 66
   offset: 0, 0
   index: -1
-UnitIcons/Archaeologist
+UnitIcons/Archaeologists
   rotate: false
   xy: 212, 1112
   size: 100, 100
