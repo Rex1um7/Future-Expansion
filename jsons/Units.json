@@ -44,7 +44,7 @@
 	//Renaissance
 	//Industrial
 	{
-		"name": "Archaeologist",
+		"name": "Archaeologists",
 		"unitType": "Civilian",
 		"cost": 375,
 		"movement": 2,
