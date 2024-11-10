@@ -991,8 +991,8 @@
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
-			"[+100]% Production when constructing [Archaeologist] units [in all cities] <during the [Industrial era]>",
-			"[Gold] cost of purchasing [Archaeologist] units [-50]% <during the [Industrial era]>",
+			"[+100]% Production when constructing [Archaeologists] units [in all cities] <during the [Industrial era]>",
+			"[Gold] cost of purchasing [Archaeologists] units [-50]% <during the [Industrial era]>",
 			"[+5]% [Culture] from every [Museum] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Artist Perk]>",
