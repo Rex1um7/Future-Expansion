@@ -46,11 +46,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            255,
-            87,
-            35
-        ]
+        "iconRGB": [255,87,35]
     },
     {
         "name": "Classical era",
@@ -101,11 +97,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            233,
-            31,
-            99
-        ]
+        "iconRGB": [233,31,99]
     },
     {
         "name": "Medieval era",
@@ -168,11 +160,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            157,
-            39,
-            176
-        ]
+        "iconRGB": [157,39,176]
     },
     {
         "name": "Renaissance era",
@@ -244,11 +232,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            104,
-            58,
-            183
-        ]
+        "iconRGB": [104,58,183]
     },
     {
         "name": "Industrial era",
@@ -331,11 +315,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            63,
-            81,
-            182
-        ],
+        "iconRGB": [63,81,182],
         "uniques": [
             "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
@@ -435,11 +415,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            33,
-            150,
-            243
-        ],
+        "iconRGB": [33,150,243],
         "uniques": [
             "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
@@ -537,11 +513,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            0,
-            150,
-            136
-        ],
+        "iconRGB": [0,150,136],
         "uniques": [
             "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
@@ -648,11 +620,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            76,
-            176,
-            81
-        ],
+        "iconRGB": [76,176,81],
         "uniques": [
             "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
@@ -763,11 +731,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            76,
-            176,
-            81
-        ],
+        "iconRGB": [76,176,81],
         "uniques": [
             "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
@@ -871,11 +835,7 @@
                 "Provides military units every ≈[17] turns"
             ]
         },*/
-        "iconRGB": [
-            76,
-            176,
-            81
-        ],
+        "iconRGB": [76,176,81],
         "uniques": [
             "May not generate great prophet equivalents naturally",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
