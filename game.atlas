@@ -1439,7 +1439,7 @@ TileSets/FantasyHex/Tiles/Wind Farm
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Archeologist
+TileSets/FantasyHex/Units/Archaeologists
   rotate: false
   xy: 1014, 1104
   size: 32, 36
