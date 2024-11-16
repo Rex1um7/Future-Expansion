@@ -1,6 +1,6 @@
-[
-    {
+{
         "name": "Factory Energization",
-        "uniques":"[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
-    }
-]
+        "uniques":[
+            "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
+        ]
+}
