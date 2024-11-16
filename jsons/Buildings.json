@@ -70,19 +70,13 @@
 		"name": "Factory",
 		"cost": 360,
 		"production": 4,
-		"percentStatBonus": {
-			"production": 5
-		},
-		"specialistSlots": {
-			"Engineer": 2
-		},
+		"percentStatBonus": {"production": 5},
+		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization",
-		"uniques": [
-			"[+15]% [Production] [in this city] <with [Power]>"
-		]
+		"requiredResource": "Coal",
 	},
 	{
 		"name": "Coal Plant",
