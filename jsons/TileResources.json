@@ -97,7 +97,7 @@
 		"minorDepositAmount": {
 			"sparse": 2,
 			"default": 3,
-			"abundant": 3
+			"abundant": 4
 		}
 	},
 	{
