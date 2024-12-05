@@ -501,7 +501,7 @@
 	//National Wonders
 	{
 		"name": "Utopia Project",
-		"cost": 3000,
+		"cost": 5500,
 		"isNationalWonder": true,
 		"uniques": [
 			"Hidden until [6] social policy branches have been completed",
@@ -530,7 +530,7 @@
 	},
 	{
 		"name": "Time Machine Blueprints",
-		"cost": 1600,
+		"cost": 2000,
 		"isNationalWonder": true,
 	    "uniques": [
 		        "Enables construction of Time Machine Parts",
