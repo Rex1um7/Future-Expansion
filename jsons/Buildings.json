@@ -248,7 +248,6 @@
 			"Unsellable",
 			"Only available <in cities without a [Entrepeneur Venue]>",
 			"Only available <in cities without a [Private Grid]>",
-			"Only available <in cities without a [Spaceship Factory]>",
 			"Only available <in cities without a [Virtual Space]>",
 			"Destroyed when the city is captured"
 		]
@@ -279,7 +278,6 @@
 		"uniques": [
 			"Consumes [2] [Power]",
 			"Unsellable",
-			"Only available <in cities without a [Spaceship Factory]>",
 			"Only available <in cities without a [Private Grid]>",
 			"Only available <in cities without a [Foreign Center]>",
 			"Only available <in cities without a [Virtual Space]>",
@@ -319,7 +317,6 @@
 			"Only available <in cities without a [Entrepeneur Venue]>",
 			"Only available <in cities without a [Private Grid]>",
 			"Only available <in cities without a [Foreign Center]>",
-			"Only available <in cities without a [Spaceship Factory]>"
 		]
 	},
 	{
@@ -338,7 +335,6 @@
 			"Unsellable",
 			"Only available <in cities without a [Virtual Space]>",
 			"Only available <in cities without a [Entrepeneur Venue]>",
-			"Only available <in cities without a [Spaceship Factory]>",
 			"Only available <in cities without a [Foreign Center]>"
 		]
 	},
