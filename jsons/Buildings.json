@@ -498,7 +498,7 @@
 	{
 		"name": "Utopia Project",
 		"cost": 5500,
-		"isNationalWonder": true,
+		"isNationalWonder": true ,
 		"uniques": [
 			"Hidden until [6] social policy branches have been completed",
 			"Triggers a global alert upon build start",
@@ -508,7 +508,7 @@
 	},
 	{
 		"name": "Nuclear Testing Site",
-		"isNationalWonder": true,
+		"isNationalWonder": true ,
 		"requiredTech": "Atomic Theory",
 		"cost": 1000,
 		"uniques": [
@@ -518,7 +518,7 @@
 	},
 	{
 		"name": "Information Warfare",
-		"isNationalWonder": true,
+		"isNationalWonder": true ,
 		"requiredTech": "Artificial Intelligence",
 		"uniques": [
 			"[Support] units gain the [Firewall] promotion"
@@ -527,7 +527,7 @@
 	{
 		"name": "Time Machine Blueprints",
 		"cost": 2000,
-		"isNationalWonder": true,
+		"isNationalWonder": true ,
 	    "uniques": [
 		        "Enables construction of Time Machine Parts",
 			"Triggers a global alert upon completion",
@@ -705,7 +705,7 @@
 	//Corporations
 	{
 		"name": "Electrical Corporation",
-		"isNationalWonder": true,
+		
 		"cost": 1360,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -718,7 +718,7 @@
 	},
 	{
 		"name": "Engineering Corporation",
-		"isNationalWonder": true,
+		
 		"cost": 980,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Tourism Agency",
-		"isNationalWonder": true,
+		
 		"cost": 1360,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -746,7 +746,7 @@
 	},
 	{
 		"name": "Defense Force Agency",
-		"isNationalWonder": true,
+		
 		"cost": 1360,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -760,7 +760,7 @@
 	},
 	{
 		"name": "Social Network Company",
-		"isNationalWonder": true,
+		
 		"cost": 1710,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -774,7 +774,7 @@
 	},
 	{
 		"name": "World Delivery Company",
-		"isNationalWonder": true,
+		
 		"cost": 1890,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -789,7 +789,7 @@
 	},
 	{
 		"name": "Space Organization",
-		"isNationalWonder": true,
+		
 		"cost": 1710,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -804,7 +804,7 @@
 	},
 	{
 		"name": "Holy Organization",
-		"isNationalWonder": true,
+		
 		"cost": 1710,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -820,35 +820,33 @@
 	{
 		"name": "SP-Innovation",
 		"cost": 1,
-		"isNationalWonder": true,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+2 Science] from [Mine] tiles [in all cities] <during the [Industrial era]>",
 			"[+2 Science] from all [Production] buildings <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Water Power",
-		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+2 Science] from [River] tiles [in all cities] <during the [Industrial era]>",
 			"[+1 Science] from [Coast] tiles [in all cities] <during the [Industrial era]>",
 			"[+1 Science] from [Ocean] tiles [in all cities] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Supply Chains",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -857,12 +855,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Corporate Chains",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -871,12 +869,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Medical Labs",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -885,12 +883,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Nuclear Arsenal",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -899,12 +897,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Modern Medicine",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -914,12 +912,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Green Energy",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -927,12 +925,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Enviromentalism",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -942,12 +940,12 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "SP-Future Power",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"civilopediaText":[
 			{"text": "Enables construction of [Energy Reactor] and [Energy Barrier]"}
@@ -960,41 +958,41 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Excavations",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+100]% Production when constructing [Archaeologists] units [in all cities] <during the [Industrial era]>",
 			"[Gold] cost of purchasing [Archaeologists] units [-50]% <during the [Industrial era]>",
 			"[+5]% [Culture] from every [Museum] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Art Guilds",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+30]% [Culture] <when below [0] Happiness> <during the [Industrial era]>",
 			"[+15]% [Culture] <while the empire is happy> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Museum Host",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1003,12 +1001,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Music",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1018,12 +1016,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-World Tour",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1032,12 +1030,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-World Competitions",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1045,12 +1043,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Foreign Exchange",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1059,12 +1057,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Press Media",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1074,12 +1072,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-New Age",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1087,12 +1085,12 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "AP-Space Combat",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1101,39 +1099,39 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-First Pioneers",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"Gain a free [Coal Plant] [in capital]",
 			"Gain a free [Factory] [in capital]",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Extractor",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"Gain a free [Free Iron] [in all cities]",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Early Vehicles",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1143,12 +1141,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Distillery",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1156,12 +1154,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Recycling",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1170,12 +1168,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Civil Planning",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1185,12 +1183,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Advanced Machinery",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1201,12 +1199,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Energy Contractors",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1214,12 +1212,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Genetic Engineering",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1229,12 +1227,12 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "EP-Cyber Engineering",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1244,36 +1242,36 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Engineer Perk]>",
 			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Expropiation",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+100]% Production when constructing [Settler] units [in all cities] <during the [Industrial era]>",
 			"[Gold] cost of purchasing [Settler] units [-50]% <during the [Industrial era]>",
 			"[-50]% Gold cost of acquiring tiles [in all cities] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Public Transport",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+12 Gold, +12 Science] from each Trade Route <during the [Industrial era]>",
 			"[+1] Movement <for [Civilian] units> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		],
 		"greatPersonPoints": {
 			"Great Merchant": 3
@@ -1281,7 +1279,7 @@
 	},
 	{
 		"name": "MP-Arms Dealer",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1290,12 +1288,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Entertainment",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1305,12 +1303,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Branch Companies",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1320,12 +1318,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-International Aid",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1335,12 +1333,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Entrepeneur Aid",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1349,12 +1347,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Virtual Age",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1362,12 +1360,12 @@
 			"Only available  <during the [Information era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Desalination",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1377,12 +1375,12 @@
 			"Only available  <during the [Future era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "MP-Eternal Gold",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1391,39 +1389,39 @@
 			"Only available  <during the [Future era]>",
 			"Only available <with [Merchant Perk]>",
 			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Church Institute",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+40]% [Faith] from City-States <during the [Industrial era]>",
 			"[+20]% [Faith] from every [Hospital] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-New Church",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+4 Faith, +2 Happiness] from all [Faith] buildings <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Church Taxes",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1432,12 +1430,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Ideology War",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1446,12 +1444,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Independent Church",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1460,12 +1458,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Faith Censor",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1475,12 +1473,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Global Broadcast",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1489,12 +1487,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Peace Mediator",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1502,12 +1500,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-New Millenium",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1516,12 +1514,12 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "PP-Hegemony",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1529,41 +1527,41 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [Prophet Perk]>",
 			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Modernization",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[-50]% Gold cost of upgrading <for [Military] units> <during the [Industrial era]>",
 			"[+4 Science, +4 Production] from [Fort] tiles [in all cities] <during the [Industrial era]>",
 			"[+8 Science, +8 Production] from [Citadel] tiles [in all cities] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Great Conquests",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
-			"Industrial Perk",
+			"Industrial Perk","Unsellable",
 			"[+33]% Strength <for [Military] units> <during the [Industrial era]>",
 			"[+17]% Strength <for [Military] units> <vs cities> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Great War",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1572,12 +1570,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Navy First",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1586,12 +1584,12 @@
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Conscription",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1601,12 +1599,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Finest Hour",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1615,12 +1613,12 @@
 			"Only available <during the [Atomic era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-National Defense",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1630,12 +1628,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Stealth Operatives",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1644,12 +1642,12 @@
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Hovercombat",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1658,12 +1656,12 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	{
 		"name": "GP-Energy Weapons",
-		"isNationalWonder": true,
+		
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1672,7 +1670,7 @@
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			
 		]
 	},
 	//Effect-Based
