@@ -1,6 +1,7 @@
 {
-        "name": "Factory Energization",
+        "name": "Global Uniques",
         "uniques":[
-            "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
+                "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
+                "Gain a free [Corporate Slot] [in capital] <for [All] Civilizations>",
         ]
 }
