@@ -679,7 +679,9 @@
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
-			"Unable to capture cities"
+			"Unable to capture cities",
+			"May travel on Water tiles without embarking",
+			"[-1] Sight <in [Water] tiles>",
 		],
 		"attackSound": "machinegun",
 		"civilopediaText": [
@@ -1127,7 +1129,9 @@
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
-			"Unable to capture cities"
+			"Unable to capture cities",
+			"May travel on Water tiles without embarking",
+			"[-1] Sight <in [Water] tiles>",
 		],
 		"promotions": [
 			"Energy Weapons",
