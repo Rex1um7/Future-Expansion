@@ -1139,7 +1139,7 @@
 	{
 		"name": "Orbital Carrier",
 		"unitType": "Land Carrier",
-		"movement": 3,
+		"movement": 4,
 		"range": 2,
 		"interceptRange": 2,
 		"strength": 125,
@@ -1157,7 +1157,8 @@
 			"Ignores Zone of Control",
 			"Can carry [2] [Aircraft] units",
 			"[100]% chance to intercept air attacks",
-			"[+25]% Strength <vs [Air] units>"
+			"[+25]% Strength <vs [Air] units>",
+			"May travel on Water tiles without embarking",
 		],
 		"promotions": [
 			"In Orbit",
