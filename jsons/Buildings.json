@@ -705,7 +705,7 @@
 	//Corporations
 	{
 		"name": "Electrical Corporation",
-		
+		"isWonder": true,
 		"cost": 1360,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -718,7 +718,7 @@
 	},
 	{
 		"name": "Engineering Corporation",
-		
+		"isWonder": true,
 		"cost": 980,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Tourism Agency",
-		
+		"isWonder": true,
 		"cost": 1360,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -746,7 +746,7 @@
 	},
 	{
 		"name": "Defense Force Agency",
-		
+		"isWonder": true,
 		"cost": 1360,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -760,7 +760,7 @@
 	},
 	{
 		"name": "Social Network Company",
-		
+		"isWonder": true,
 		"cost": 1710,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -774,7 +774,7 @@
 	},
 	{
 		"name": "World Delivery Company",
-		
+		"isWonder": true,
 		"cost": 1890,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -789,7 +789,7 @@
 	},
 	{
 		"name": "Space Organization",
-		
+		"isWonder": true,
 		"cost": 1710,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
@@ -804,11 +804,12 @@
 	},
 	{
 		"name": "Holy Organization",
-		
+		"isWonder": true,
 		"cost": 1710,
 		"requiredResource": "Corporation Slot",
 		"uniques": [
 			"Provides [2] [Holy Stock]",
+			"May buy [All] units with [Culture] for [3] times their normal Production cost",
 			"[Faith] cost of purchasing [All] units [-35]%",
 			"Consumes [1] [Corporation Slot(Total)]",
 			"Only available <after discovering [Corporations]>",
