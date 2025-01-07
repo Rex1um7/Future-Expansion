@@ -953,7 +953,14 @@
 			"Consumes [1] [Scientist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+			        "link": "Tile Improvements/Solar Farm",
+				"link": "Tile Improvements/Wind Farm",
+				"link": "Tile Improvements/Offshore Wind Farm",
+			},
+		],
 	},
 	{
 		"name": "SP-Enviromentalism",
