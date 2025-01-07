@@ -820,6 +820,7 @@
 	//Perks
 	{
 		"name": "SP-Innovation",
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -836,6 +837,7 @@
 	},
 	{
 		"name": "SP-Water Power",
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -853,7 +855,7 @@
 	},
 	{
 		"name": "SP-Supply Chains",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -870,7 +872,7 @@
 	},
 	{
 		"name": "SP-Corporate Chains",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -887,7 +889,7 @@
 	},
 	{
 		"name": "SP-Medical Labs",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -904,7 +906,7 @@
 	},
 	{
 		"name": "SP-Nuclear Arsenal",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -921,7 +923,7 @@
 	},
 	{
 		"name": "SP-Modern Medicine",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -939,7 +941,7 @@
 	},
 	{
 		"name": "SP-Green Energy",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -955,7 +957,7 @@
 	},
 	{
 		"name": "SP-Enviromentalism",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -973,7 +975,7 @@
 	},
 	{
 		"name": "SP-Future Power",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"civilopediaText":[
 			{"text": "Enables construction of [Energy Reactor] and [Energy Barrier]"}
@@ -994,7 +996,7 @@
 	},
 	{
 		"name": "AP-Excavations",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1012,7 +1014,7 @@
 	},
 	{
 		"name": "AP-Art Guilds",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1029,7 +1031,7 @@
 	},
 	{
 		"name": "AP-Museum Host",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1046,7 +1048,7 @@
 	},
 	{
 		"name": "AP-Music",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1064,7 +1066,7 @@
 	},
 	{
 		"name": "AP-World Tour",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1081,7 +1083,7 @@
 	},
 	{
 		"name": "AP-World Competitions",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1097,7 +1099,7 @@
 	},
 	{
 		"name": "AP-Foreign Exchange",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1114,7 +1116,7 @@
 	},
 	{
 		"name": "AP-Press Media",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1132,7 +1134,7 @@
 	},
 	{
 		"name": "AP-New Age",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1148,7 +1150,7 @@
 	},
 	{
 		"name": "AP-Space Combat",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1165,7 +1167,7 @@
 	},
 	{
 		"name": "EP-First Pioneers",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1182,7 +1184,7 @@
 	},
 	{
 		"name": "EP-Extractor",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1198,7 +1200,7 @@
 	},
 	{
 		"name": "EP-Early Vehicles",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1216,7 +1218,7 @@
 	},
 	{
 		"name": "EP-Distillery",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1232,7 +1234,7 @@
 	},
 	{
 		"name": "EP-Recycling",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1249,7 +1251,7 @@
 	},
 	{
 		"name": "EP-Civil Planning",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1267,7 +1269,7 @@
 	},
 	{
 		"name": "EP-Advanced Machinery",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1286,7 +1288,7 @@
 	},
 	{
 		"name": "EP-Energy Contractors",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1302,7 +1304,7 @@
 	},
 	{
 		"name": "EP-Genetic Engineering",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1320,7 +1322,7 @@
 	},
 	{
 		"name": "EP-Cyber Engineering",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1338,7 +1340,7 @@
 	},
 	{
 		"name": "MP-Expropiation",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1356,7 +1358,7 @@
 	},
 	{
 		"name": "MP-Public Transport",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1376,7 +1378,7 @@
 	},
 	{
 		"name": "MP-Arms Dealer",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1393,7 +1395,7 @@
 	},
 	{
 		"name": "MP-Entertainment",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1411,7 +1413,7 @@
 	},
 	{
 		"name": "MP-Branch Companies",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1429,7 +1431,7 @@
 	},
 	{
 		"name": "MP-International Aid",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1447,7 +1449,7 @@
 	},
 	{
 		"name": "MP-Entrepeneur Aid",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1464,7 +1466,7 @@
 	},
 	{
 		"name": "MP-Virtual Age",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1480,7 +1482,7 @@
 	},
 	{
 		"name": "MP-Desalination",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1498,7 +1500,7 @@
 	},
 	{
 		"name": "MP-Eternal Gold",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1515,7 +1517,7 @@
 	},
 	{
 		"name": "PP-Church Institute",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1532,7 +1534,7 @@
 	},
 	{
 		"name": "PP-New Church",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1548,7 +1550,7 @@
 	},
 	{
 		"name": "PP-Church Taxes",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1565,7 +1567,7 @@
 	},
 	{
 		"name": "PP-Ideology War",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1582,7 +1584,7 @@
 	},
 	{
 		"name": "PP-Independent Church",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1599,7 +1601,7 @@
 	},
 	{
 		"name": "PP-Faith Censor",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1617,7 +1619,7 @@
 	},
 	{
 		"name": "PP-Global Broadcast",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1634,7 +1636,7 @@
 	},
 	{
 		"name": "PP-Peace Mediator",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1650,7 +1652,7 @@
 	},
 	{
 		"name": "PP-New Millenium",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1667,7 +1669,7 @@
 	},
 	{
 		"name": "PP-Hegemony",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1683,7 +1685,7 @@
 	},
 	{
 		"name": "GP-Modernization",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1701,7 +1703,7 @@
 	},
 	{
 		"name": "GP-Great Conquests",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Industrial Perk",
@@ -1718,7 +1720,7 @@
 	},
 	{
 		"name": "GP-Great War",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1735,7 +1737,7 @@
 	},
 	{
 		"name": "GP-Navy First",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
@@ -1752,7 +1754,7 @@
 	},
 	{
 		"name": "GP-Conscription",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1770,7 +1772,7 @@
 	},
 	{
 		"name": "GP-Finest Hour",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Atomic Perk",
@@ -1787,7 +1789,7 @@
 	},
 	{
 		"name": "GP-National Defense",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1805,7 +1807,7 @@
 	},
 	{
 		"name": "GP-Stealth Operatives",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
@@ -1822,7 +1824,7 @@
 	},
 	{
 		"name": "GP-Hovercombat",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1839,7 +1841,7 @@
 	},
 	{
 		"name": "GP-Energy Weapons",
-		
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
 			"Future Perk",
@@ -1912,12 +1914,4 @@
 			"Unbuildable"
 		]
 	},
-	{
-		"name": "Solar Plant",
-		"uniques": [
-			"Future Expansion has no Solar Plant",
-			"Unbuildable",
-			"Will not be displayed in Civilopedia"
-		]
-	}
 ]
