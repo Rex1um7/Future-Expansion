@@ -958,15 +958,11 @@
 				"text": "Solar Farm",
 				"link": "Tile Improvements/Solar Farm",
 
-			}
-		],
-		"civilopediaText": [
+			},
 			{
 				"text": "Wind Farm",
 				"link": "Tile Improvements/Wind Farm",
-			}
-		],
-		"civilopediaText": [
+			},
 			{
 				"text": "Offshore Wind Farm",
 				"link": "Tile Improvements/Offshore Wind Farm",
