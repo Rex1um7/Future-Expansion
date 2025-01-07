@@ -947,7 +947,6 @@
 			"Information Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"+1 Power provided by Solar Farm, Wind Farm and Offshore Wind Farm",
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
 			"Consumes [1] [Scientist Perk]",
@@ -956,9 +955,20 @@
 		],
 		"civilopediaText": [
 			{
+				"text": "Solar Farm",
 			        "link": "Tile Improvements/Solar Farm",
-				"link": "Tile Improvements/Wind Farm",
-				"link": "Tile Improvements/Offshore Wind Farm",
+			},
+		],
+		"civilopediaText": [
+			{
+				"text": "Wind Farm",
+			        "link": "Tile Improvements/Wind Farm",
+			},
+		],
+		"civilopediaText": [
+			{
+				"text": "Offshore Wind Farm",
+			        "link": "Tile Improvements/Offshore Wind Farm",
 			},
 		],
 	},
