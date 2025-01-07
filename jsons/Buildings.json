@@ -953,9 +953,25 @@
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
 		],
-		"link": "Tile Improvements/Solar Farm",
-		"link": "Tile Improvements/Wind Farm",
-		"link": "Tile Improvements/Offshore Wind Farm",
+		"civilopediaText": [
+			{
+				"text": "Solar Farm",
+				"link": "Tile Improvements/Solar Farm",
+
+			}
+		],
+		"civilopediaText": [
+			{
+				"text": "Wind Farm",
+				"link": "Tile Improvements/Wind Farm",
+			}
+		],
+		"civilopediaText": [
+			{
+				"text": "Offshore Wind Farm",
+				"link": "Tile Improvements/Offshore Wind Farm",
+			}
+		],
 	},
 	{
 		"name": "SP-Enviromentalism",
