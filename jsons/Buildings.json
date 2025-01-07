@@ -1914,4 +1914,11 @@
 			"Unbuildable"
 		]
 	},
+	{
+		"name": "Solar Plant",
+		"uniques": [
+			"Unbuildable",
+			//"Will not be displayed in Civilopedia"
+		]
+	}
 ]
