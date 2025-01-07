@@ -1051,14 +1051,19 @@
 			"Modern Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enable construction of [History Museum]",
 			"Provides [1] [Fossil]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "History Museum",
+				"link": "Buildings/History Museum",
+			},
+		],
 	},
 	{
 		"name": "AP-Music",
@@ -1086,14 +1091,19 @@
 			"Atomic Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [International Pass]",
 			"[+50]% Yield from every [Concert Venue] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "International Pass",
+				"link": "Buildings/International Pass",
+			},
+		],
 	},
 	{
 		"name": "AP-World Competitions",
@@ -1170,14 +1180,23 @@
 			"Information Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Orbital Fighters] and [Orbital Bombers]",
 			"[+1 Culture] from every specialist [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
 			"Consumes [1] [Artist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Orbital Fighters",
+				"link": "Units/Orbital Fighters",
+			},
+			{
+				"text": "Orbital Fighters",
+				"link": "Units/Orbital Bombers",
+			},
+		],
 	},
 	{
 		"name": "EP-First Pioneers",
@@ -1220,7 +1239,6 @@
 			"Modern Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Triplane] and [Landship]",
 			"[+5]% Strength <for [Armored] units> <during the [Modern era]>",
 			"[+5]% Strength <for [Air] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1228,8 +1246,19 @@
 			"Consumes [1] [Engineer Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Triplane",
+				"link": "Units/Triplane",
+			},
+			{
+				"text": "Landship",
+				"link": "Units/Landship",
+			},
+		],
 	},
+	
 	{
 		"name": "EP-Distillery",
 		"isNationalWonder": true,
@@ -1324,7 +1353,6 @@
 			"Future Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Bio Facility] and [Seeker]",
 			"[+10]% [Food] [in all cities]",
 			"[+25]% Strength <for [Bio-Infantry] units>",
 			"Only available <during the [Future era]>",
@@ -1332,7 +1360,17 @@
 			"Consumes [1] [Engineer Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Bio Facility",
+				"link": "Buildings/Bio Facility",
+			},
+			{
+				"text": "Seeker",
+				"link": "Units/Seeker",
+			},
+		],
 	},
 	{
 		"name": "EP-Cyber Engineering",
@@ -1342,7 +1380,6 @@
 			"Future Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Composite Factory] and [Future Submarine]",
 			"[+10]% [Production] [in all cities]",
 			"[+25]% Strength <for [Combat Robot] units>",
 			"Only available <during the [Future era]>",
@@ -1350,7 +1387,17 @@
 			"Consumes [1] [Engineer Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Composite Factory",
+				"link": "Buildings/Composite Factory",
+			},
+			{
+				"text": "Future Submarine",
+				"link": "Units/Future Submarine",
+			},
+		],
 	},
 	{
 		"name": "MP-Expropiation",
@@ -1441,7 +1488,13 @@
 			"Consumes [1] [Merchant Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Branch Office",
+				"link": "Buildings/Branch Office",
+			},
+		],
 	},
 	{
 		"name": "MP-International Aid",
@@ -1502,7 +1555,6 @@
 			"Future Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Adaptive Base]",
 			"[+1 Food, +2 Gold] from every [Coast]",
 			"[+1 Food, +2 Gold] from every [Ocean]",
 			"Only available  <during the [Future era]>",
@@ -1510,7 +1562,13 @@
 			"Consumes [1] [Merchant Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Adaptive Base",
+				"link": "Buildings/Adaptive Base",
+			},
+		],
 	},
 	{
 		"name": "MP-Eternal Gold",
@@ -1730,7 +1788,7 @@
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
 	},
 	{
 		"name": "GP-Great War",
@@ -1740,14 +1798,23 @@
 			"Modern Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Great War Infantry] and [Great War Bomber]",
 			"[+10]% Strength <for [Military] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Great War Infantry",
+				"link": "Units/Great War Infantry",
+			},
+			{
+				"text": "Great War Bomber",
+				"link": "Units/Great War Bomber",
+			},
+		],
 	},
 	{
 		"name": "GP-Navy First",
@@ -1827,14 +1894,23 @@
 			"Information Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Stealth Bombers] and [Stealth Hackers]",
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Stealth Bombers",
+				"link": "Units/Stealth Bombers",
+			},
+			{
+				"text": "Stealth Hackers",
+				"link": "Units/Stealth Hackers",
+			},
+		],
 	},
 	{
 		"name": "GP-Hovercombat",
@@ -1844,14 +1920,27 @@
 			"Future Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Hovertank], [Hovertillery], and [Hover-SAM]",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Hovertank",
+				"link": "Units/Hovertank",
+			},
+			{
+				"text": "Hovertillery",
+				"link": "Units/Hovertillery",
+			},
+			{
+				"text": "Hover-SAM",
+				"link": "Units/Hover-SAM",
+			},
+		],
 	},
 	{
 		"name": "GP-Energy Weapons",
@@ -1861,14 +1950,27 @@
 			"Future Perk",
 			"Unsellable",
 			"Cannot be purchased",
-			"Enables construction of [Energy Infantry], [Future Copter], and [Orbital Carrier]",
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
-		]
+		],
+		"civilopediaText": [
+			{
+				"text": "Energy Infantry",
+				"link": "Units/Energy Infantry",
+			},
+			{
+				"text": "Future Copter",
+				"link": "Units/Future Copter",
+			},
+			{
+				"text": "Orbital Carrier",
+				"link": "Units/Orbital Carrier",
+			},
+		],
 	},
 	//Effect-Based
 	{
