@@ -3,7 +3,7 @@
         "uniques":[
                 "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
                 "Gain a free [Corporate Slot] [in capital] <for [All] Civilizations>",
-                "[-50]% [Science] [in all cities] <for [All] Civilizations> <starting from the [Modern era]>",
+                "[-75]% [Science] [in all cities] <for [All] Civilizations> <starting from the [Modern era]>",
                 "[-50]% [Culture] [in all cities] <for [All] Civilizations> <starting from the [Modern era]>",
         ]
 }
