@@ -176,7 +176,8 @@
 			"name": "Futurismo",
 			"era": "Future era",
 			"uniques": [
-				"Provides a [Corporate Slot] in your first [1] cities for free",
+				"Provides [1] [Corporation Slot(Total)]",
+				"Provides [1] [Corporation Slot]",
 				"Only available <before adopting [Technocracy]>",
 				"Only available <before adopting [Transhumanism]>"
 			],
