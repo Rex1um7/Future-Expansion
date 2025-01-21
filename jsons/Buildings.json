@@ -2010,9 +2010,9 @@
 	},
 	{
 		"name": "Corporate Slot",
-                "isNationalWonder": true ,
 		"cost": 1,
 		"uniques": [
+			"Limited to [1] per Civilization",
 			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
 			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
 			"Destroyed when the city is captured",
@@ -2024,7 +2024,8 @@
 		"cost": 1,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"City-State have no corporation",
+			"Consumes [1] [Corporation Slot(Total)] <after discovering [Corporations]> <for [City-States] Civilizations>",
+			"Consumes [1] [Corporation Slot] <after discovering [Corporations]> <for [City-States] Civilizations>",
 			"Destroyed when the city is captured",
 			"Unbuildable"
 		]
