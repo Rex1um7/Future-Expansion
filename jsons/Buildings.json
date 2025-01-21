@@ -2010,9 +2010,9 @@
 	},
 	{
 		"name": "Corporate Slot",
+		"isNationalWonder": true, 
 		"cost": 1,
 		"uniques": [
-			"Limited to [1] per Civilization",
 			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
 			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
 			"Destroyed when the city is captured",
