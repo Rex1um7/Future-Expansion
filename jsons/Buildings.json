@@ -2015,7 +2015,8 @@
 			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
 			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
 			"Destroyed when the city is captured",
-			"Unsellable"
+			"Unsellable",
+			"Unbuildable",
 		]
 	},
 	{
@@ -2023,7 +2024,7 @@
 		"cost": 1,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Removes [Corporate Slot] [in capital]",
+			"Remove [Corporate Slot] [in capital]",
 			"Destroyed when the city is captured",
 			"Unbuildable"
 		]
