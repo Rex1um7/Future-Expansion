@@ -2010,12 +2010,12 @@
 	},
 	{
 		"name": "Corporate Slot",
-		"isNationalWonder": true, 
-		"cost": 1,
+		"isNationalWonder": true,
 		"uniques": [
 			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
 			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
 			"Destroyed when the city is captured",
+			"Remove [Corporate Slot] [in capital] <for [City-States] Civilizations>",
 			"Unsellable"
 		]
 	},
