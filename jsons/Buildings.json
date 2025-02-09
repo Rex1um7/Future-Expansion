@@ -2010,12 +2010,13 @@
 	},
 	{
 		"name": "Corporate Slot",
+		"cost": 1,
 		"isNationalWonder": true,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
+			"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
 			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
-			"Gain a free [Corporate Slot] [in this city] <for [City-States] Civilizations> <hidden from users>",
 			"Destroyed when the city is captured",
 			"Unsellable",
 			"Unbuildable",
