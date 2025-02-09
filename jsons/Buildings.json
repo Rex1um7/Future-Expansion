@@ -2012,8 +2012,10 @@
 		"name": "Corporate Slot",
 		"isNationalWonder": true,
 		"uniques": [
+			"Will not be displayed in Civilopedia",
 			"Provides [1] [Corporation Slot(Total)] <after discovering [Corporations]>",
 			"Provides [1] [Corporation Slot] <after discovering [Corporations]>",
+			"Gain a free [Corporate Slot] [in this city] <for [City-States] Civilizations> <hidden from users>",
 			"Destroyed when the city is captured",
 			"Unsellable",
 			"Unbuildable",
@@ -2024,7 +2026,7 @@
 		"cost": 1,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Remove [Corporate Slot] [in capital]",
+			"Remove [Corporate Slot] [in all cities]",
 			"Destroyed when the city is captured",
 			"Unbuildable"
 		]
