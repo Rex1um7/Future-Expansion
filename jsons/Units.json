@@ -538,9 +538,7 @@
 		"movement": 3,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
-			"Can pass through impassable tiles",
 			"[-33]% construction time for [All] improvements",
-			"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed>",
 			"Can instantly construct a [Power Plant] improvement <by consuming this unit>",
 			"Can instantly construct a [Water Tower] improvement <by consuming this unit>",
 			"Can instantly construct a [Industrial Complex] improvement <by consuming this unit>",
