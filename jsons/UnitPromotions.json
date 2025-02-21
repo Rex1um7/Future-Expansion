@@ -6,7 +6,7 @@
 			"Doing so will consume this opportunity to choose a Promotion"
 		],
 		"unitTypes": [
-			"Sword",
+			/*"Sword",
 			"Gunpowder",
 			"Mounted",
 			"Scout",
@@ -18,7 +18,8 @@
 			"Ranged Water",
 			"Submarine",
 			"Support",
-			"Land Carrier"
+			"Land Carrier"*/
+			"All",
 		]
 	},
 	//Effects
