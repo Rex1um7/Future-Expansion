@@ -1,5 +1,5 @@
 [
-	/*{
+	{
 		"name": "Heal Instantly",
 		"uniques": [
 			"[This Unit] heals [50] HP",
@@ -20,7 +20,7 @@
 			"Support",
 			"Land Carrier"
 		]
-	},*/
+	},
 	//Effects
 	{
 		"name": "Stealth",
