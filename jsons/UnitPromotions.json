@@ -194,5 +194,11 @@
 			"Aircraft Carrier",
 			"Land Carrier"
 		]
+	},
+	{
+		"name": "Architect",
+		"uniques": [
+			"Can upgrade to [Architect]",
+		],
 	}
 ]
