@@ -198,7 +198,7 @@
 	{
 		"name": "Architect",
 		"uniques": [
-			"Can upgrade to [Architect]",
+			"Can transform to [Architect] <costs [+700 Gold] stats>",
 		],
 	}
 ]
