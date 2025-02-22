@@ -537,15 +537,15 @@
 	},
 	{
 		"name": "Monolith Portal",
-		"cost": 1600,
+		"cost": 5555,
 		"requiredTech": "Nanotechnology",
 		"isWonder": true,
 		"uniques": [
 			//"Will not be displayed in Civilopedia",
 			//"Must have an owned [Alien Monolith] within [3] tiles",
-			"Enables construction of Monolith Aliens",
+			"Comment [Enables construction of Monolith Aliens]",
 			"Triggers a global alert upon build start",
-			"Hidden until [5] social policy branches have been completed"
+			"Hidden until [5] social policy branches have been completed <hidden from users>",
 		]
 	},
 	//World Wonders
