@@ -1551,6 +1551,7 @@
 			"Cyber",
 			//"Never appears as a Barbarian unit",
 			"Can move after attacking",
+			"May travel on Water tiles without embarking",
 			"Uncapturable",
 			"[+100]% Strength <vs [Air] units>",
 			"May capture killed [Land] units <with [22]% chance>",
