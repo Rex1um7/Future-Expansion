@@ -6,6 +6,7 @@
                 "[-50]% [Science] [in all cities] <for [Major] Civilizations> <starting from the [Modern era]>",
                 "[-50]% [Culture] [in all cities] <for [Major] Civilizations> <starting from the [Modern era]>",
                 "[Worker] units gain the [UpgradeToArchitect] promotion",
+                "[+100]% [Production] <upon constructing [Monolith Portal] [in this city]> <within [3] tiles of a [Alien Monolith]>",
                 "[+5 Production] [in all cities] <for [All] Civilizations> <starting from the [Modern era]>",
         ]
 }
