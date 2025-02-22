@@ -537,7 +537,7 @@
 	},
 	{
 		"name": "Monolith Portal",
-		"cost": 5555,
+		"cost": 5651,
 		"requiredTech": "Nanotechnology",
 		"isWonder": true,
 		"uniques": [
