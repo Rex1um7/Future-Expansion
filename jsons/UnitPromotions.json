@@ -198,7 +198,7 @@
 	{
 		"name": "Architect",
 		"uniques": [
-			"Can transform to [Architect] <costs [+700 Gold] stats> <removing the [Architect] promotion/status>  <upon discovering [Infraestructure] technology> <in [your] tiles>",
+			"Can transform to [Architect] <costs [+700 Gold] stats> <for [1] movement> <removing the [Architect] promotion/status> <upon discovering [Infraestructure] technology> <in [your] tiles>",
 		],
 	}
 ]
