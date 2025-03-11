@@ -229,6 +229,7 @@
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"May travel on Water tiles without embarking",
+			"Can enter ice tiles",
 		]
 	},
 	{
@@ -741,6 +742,7 @@
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"May travel on Water tiles without embarking",
+			"Can enter ice tiles",
 		]
 	},
 	{
