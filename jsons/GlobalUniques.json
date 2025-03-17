@@ -2,11 +2,16 @@
         "name": "Global Uniques",
         "uniques":[
                 "Gain a free [Corporate Slot] [in capital] <for [Major] Civilizations>",
+                // Promotion 
+                "[Giant Death Robot] units gain the [Scan Visor] promotion",
+                "[Giant Death Robot] units gain the [Amphibious] promotion",
+                "[Giant Death Robot] units gain the [Gravity Generator] promotion",
+                "[Worker] units gain the [UpgradeToArchitect] promotion",
+                //
                 "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
                 "[+10]% Production when constructing [Military] units [in all cities] <when at war> <starting from the [Modern era]>",
                 "[-50]% [Science] [in all cities] <for [Major] Civilizations> <starting from the [Modern era]>",
                 "[-50]% [Culture] [in all cities] <for [Major] Civilizations> <starting from the [Modern era]>",
-                "[Worker] units gain the [UpgradeToArchitect] promotion",
                 "[+100]% [Production] <upon constructing [Monolith Portal] [in this city]> <within [3] tiles of a [Alien Monolith]>",
                 "[+5 Production] [in all cities] <for [All] Civilizations> <starting from the [Modern era]>",
         ]
