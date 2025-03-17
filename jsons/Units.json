@@ -1219,11 +1219,11 @@
 			"Can carry [1] [Missile] units",
 			"Consumes [2] [Uranium]"
 		],
-		"promotions": [
+		/*"promotions": [
 			"Scan Visor",
 			"Amphibious",
 			"Gravity Generator"
-		],
+		],*/
 		"attackSound": "gdrAttack"
 	},
 	{
