@@ -497,7 +497,7 @@
 	//National Wonders
 	{
 		"name": "Utopia Project",
-		"cost": 5500,
+		"cost": 7000,
 		"isNationalWonder": true ,
 		"uniques": [
 			"Hidden until [8] social policy branches have been completed",
