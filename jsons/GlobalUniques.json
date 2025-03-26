@@ -10,8 +10,8 @@
                 //
                 "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
                 "[+10]% Production when constructing [Military] units [in all cities] <when at war> <starting from the [Modern era]>",
-                "[-50]% [Science] [in all cities] <for [Major] Civilizations> <starting from the [Modern era]>",
-                "[-50]% [Culture] [in all cities] <for [Major] Civilizations> <starting from the [Modern era]>",
+                "[+50]% Science cost of researching new Technologies <for [Major] Civilizations> <starting from the [Modern era]>",
+                "[+50]% Culture cost of adopting new Policies <for [Major] Civilizations> <starting from the [Modern era]>",
                 "[+100]% [Production] <upon constructing [Monolith Portal] [in this city]> <within [3] tiles of a [Alien Monolith]>",
                 "[+5 Production] [in all cities] <for [All] Civilizations> <starting from the [Modern era]>",
         ]
