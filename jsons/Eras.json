@@ -767,7 +767,7 @@
             "Theatre",
             "Bank"
         ],
-        "startingObsoleteWonders": [
+        /*"startingObsoleteWonders": [
             "Temple of Artemis",
             "Stonehenge",
             "The Great Library",
@@ -801,7 +801,7 @@
             "Statue of Liberty",
             "Neuschwanstein",
             "Cristo Redentor"
-        ],
+        ],*/
         "baseUnitBuyCost": 1000,
         "embarkDefense": 40,
         "startPercent": 80,
