@@ -1903,12 +1903,12 @@
 		],
 		"civilopediaText": [
 			{
-				"text": "Stealth Bombers",
-				"link": "Units/Stealth Bombers",
+				"text": "Stealth Bomber",
+				"link": "Units/Stealth Bomber",
 			},
 			{
-				"text": "Stealth Hackers",
-				"link": "Units/Stealth Hackers",
+				"text": "Stealth Hacker",
+				"link": "Units/Stealth Hacker",
 			},
 		],
 	},
