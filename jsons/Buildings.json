@@ -164,6 +164,12 @@
 		"uniques": [
 			"Consumes [1] [Power]",
 			"[+2]% [Science]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Coalition",
+				"link": "Policies/Coalition",
+			},
 		]
 	},
 	//Atomic
@@ -226,6 +232,12 @@
 			"Provides [1] [Power] <if [Electrical Corporation] is constructed>",
 			"Must have an owned [Power Plant] within [3] tiles",
 			"Destroyed when the city is captured"
+		],
+		"civilopediaText": [
+			{
+				"text": "Coalition",
+				"link": "Policies/Coalition",
+			},
 		]
 	},
 	//Information
