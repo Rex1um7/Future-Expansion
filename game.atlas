@@ -2378,14 +2378,21 @@ UnitPromotionIcons/Teleportation
   offset: 0, 0
   index: -1
 
-Trinity Nuclear Test.png
-size: 637, 595
+game2.png
+size: 1285, 610
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Trinity Nuclear Test
+BuildingIcons/Strategic Defense Initiative
   rotate: false
   xy: 2, 2
+  size: 642, 606
+  orig: 642, 606
+  offset: 0, 0
+  index: -1
+BuildingIcons/Trinity Nuclear Test
+  rotate: false
+  xy: 646, 13
   size: 637, 595
   orig: 637, 595
   offset: 0, 0
