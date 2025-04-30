@@ -563,12 +563,12 @@
 	},
 	//World Wonders
 	{
-		"name": "Manhattan Project",
+		"name": "Trinity Nuclear Test",
 		"isWonder": true,
 		"requiredTech": "Atomic Theory",
 		"uniques": [
 			"Provides [1] [Uranium]",
-			"Gain a free [Nuclear Testing Site] [in this city]",
+			"Gain a free [Manhattan Project] [in this city]",
 			"[+50]% Production when constructing [Atomic Bomb] units [in this city]",
 			"Free [Atomic Bomb] appears"
 		],
