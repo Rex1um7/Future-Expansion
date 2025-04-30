@@ -1257,8 +1257,8 @@
 		"cost": 2000,
 		"requiredTech": "Particle Physics",
 		"uniques": [
-			"Nuclear weapon of Strength [2]",
-			//"Only available <if [Manhattan Project] is constructed>",
+			"Nuclear weapon of Strength [1]",
+			"Only available <if [Strategic Defense Initiative] is constructed>",
 			"Blast radius [3]"
 		],
 		"attackSound": "nuke"
