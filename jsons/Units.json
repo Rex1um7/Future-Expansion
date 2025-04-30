@@ -72,7 +72,7 @@
 		"upgradesTo": "Tactical Supplier",
 		"obsoleteTech": "Pharmaceuticals",
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"uniques": [
 			"Never appears as a Barbarian unit",
@@ -216,7 +216,7 @@
 		"requiredTech": "Dynamite",
 		"obsoleteTech": "Computers",
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"upgradesTo": "Drone",
 		"uniques": [
@@ -442,7 +442,7 @@
 		"upgradesTo": "Mobile SAM",
 		"obsoleteTech": "Rocketry",
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"uniques": [
 			"Anti-Air",
@@ -624,7 +624,7 @@
 		"requiredTech": "Rocketry",
 		"obsoleteTech": "Nanotechnology",
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"uniques": [
 			"Cyber",
@@ -729,7 +729,7 @@
 		"strength": 80,
 		"cost": 560,
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"requiredTech": "Computers",
 		"uniques": [
@@ -777,7 +777,7 @@
 		"cost": 450,
 		"requiredTech": "The Internet",
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"uniques": [
 			"Cyber",
@@ -843,7 +843,7 @@
 		"strength": 90,
 		"cost": 560,
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"uniques": [
 			//"Never appears as a Barbarian unit",
@@ -872,7 +872,7 @@
 		],
 		"promotions": [
 			"Stealth",
-			"Support Unit"
+			
 		]
 	},
 	{
@@ -1016,7 +1016,7 @@
 			"Only available <if [GP-Hovercombat] is constructed>"
 		],
 		"promotions": [
-			"Support Unit",
+			,
 			"Heat Sensor",
 			"Amphibious",
 			"Hovering"
@@ -1481,7 +1481,7 @@
 			"Will not be displayed in Civilopedia"
 		],
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"attackSound": "Hacking"
 	},
@@ -1510,7 +1510,7 @@
 			"Only available <if [Monolith Portal] is constructed>"
 		],
 		"promotions": [
-			"Support Unit"
+			
 		],
 		"attackSound": "Hacking"
 	},
