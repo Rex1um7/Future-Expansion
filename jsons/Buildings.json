@@ -520,6 +520,18 @@
 			"Cannot be hurried",
 		]
 	},
+	/*
+	{
+		"name": "Nuclear Testing Site",
+		"isNationalWonder": true ,
+		"requiredTech": "Atomic Theory",
+		"cost": 1000,
+		"uniques": [
+			"Enables nuclear weapon",
+			"Triggers a global alert upon completion"
+		]
+	},
+	*/
 	{
 		"name": "Manhattan Project",
 		"isNationalWonder": true ,
