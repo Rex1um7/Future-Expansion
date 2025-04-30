@@ -531,6 +531,16 @@
 		]
 	},
 	{
+		"name": "Strategic Defense Initiative",
+		"isNationalWonder": true ,
+		"requiredTech": "Particle Physics",
+		"cost": 2000,
+		"uniques": [
+			"Comment [Enables Orbital Strike]",
+			"Triggers a global alert upon completion"
+		]
+	},
+	{
 		"name": "Information Warfare",
 		"isNationalWonder": true ,
 		"requiredTech": "Artificial Intelligence",
