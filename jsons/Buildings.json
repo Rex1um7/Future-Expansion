@@ -521,7 +521,7 @@
 		]
 	},
 	{
-		"name": "Nuclear Testing Site",
+		"name": "Manhattan Project",
 		"isNationalWonder": true ,
 		"requiredTech": "Atomic Theory",
 		"cost": 1000,
