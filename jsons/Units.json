@@ -716,7 +716,7 @@
 		"upgradesTo": "Orbital Strike",
 		"uniques": [
 			"Nuclear weapon of Strength [2]",
-			//"Only available <if [Manhattan Project] is constructed>",
+			"Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [2]",
 			"Consumes [2] [Uranium]"
 		],
