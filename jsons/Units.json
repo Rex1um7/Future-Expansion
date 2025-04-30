@@ -1553,6 +1553,7 @@
 			//"Never appears as a Barbarian unit",
 			"Can move after attacking",
 			"May travel on Water tiles without embarking",
+			"Can enter ice tiles",
 			"Cannot attack <vs [Submarine] units>",
 			"All tiles cost 1 movement",
 			"Uncapturable",
