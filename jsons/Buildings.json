@@ -512,7 +512,8 @@
 		"cost": 7000,
 		"isNationalWonder": true ,
 		"uniques": [
-			"Hidden until [8] social policy branches have been completed",
+			"Unavailable <when number of [Completed Policy branches] is less than [8]>",
+			"Unavailable <when number of [Completed Policy branches] is less than [9]> <after adopting [Ideology]> <if [RekMOD] is enabled>",
 			"Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion",
 			"Only available <when [Cultural] Victory is enabled>",
@@ -558,7 +559,6 @@
 			//"Must have an owned [Alien Monolith] within [3] tiles",
 			"Comment [Enables construction of Monolith Aliens]",
 			"Triggers a global alert upon build start",
-			"Hidden until [5] social policy branches have been completed <hidden from users>",
 		]
 	},
 	//World Wonders
