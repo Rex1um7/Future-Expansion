@@ -161,7 +161,10 @@
     //Future Expansion
     {
         "name": "Support",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": [
+            "Cannot attack",
+        ]
     },
     {
         "name": "Land Carrier",
