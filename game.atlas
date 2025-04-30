@@ -2377,3 +2377,16 @@ UnitPromotionIcons/Teleportation
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+Trinity Nuclear Test.png
+size: 637, 595
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Trinity Nuclear Test
+  rotate: false
+  xy: 2, 2
+  size: 637, 595
+  orig: 637, 595
+  offset: 0, 0
+  index: -1
