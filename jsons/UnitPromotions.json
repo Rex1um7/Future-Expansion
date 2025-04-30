@@ -110,12 +110,14 @@
 			"Withdraws before melee combat <with [90]% chance>"
 		]
 	},
+	/*
 	{
 		"name": "Support Unit",
 		"uniques": [
 			"Cannot attack"
 		]
 	},
+	*/
 	{
 		"name": "Skirmish",
 		"uniques": [
