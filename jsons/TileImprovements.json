@@ -162,7 +162,11 @@
 	{
 		"name": "Industry",
 		"terrainsCanBeBuiltOn": [
-			"Land"
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
 		],
 		"gold": 8,
 		"production": 2,
