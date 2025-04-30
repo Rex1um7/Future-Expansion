@@ -713,7 +713,7 @@
 		"range": 12,
 		"cost": 1500,
 		"requiredTech": "Advanced Ballistics",
-		"upgradesTo": "Orbital Strike",
+		//"upgradesTo": "Orbital Strike",
 		"uniques": [
 			"Nuclear weapon of Strength [2]",
 			"Only available <if [Manhattan Project] is constructed>",
