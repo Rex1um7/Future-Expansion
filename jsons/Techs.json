@@ -370,7 +370,7 @@
 	},
 	{
 		"columnNumber": 19,
-		"era": "Beyond the Future",
+		"era": "Future era",
 		"techCost": 20000,
 		"buildingCost": 2000,
 		"wonderCost": 3120,
@@ -385,22 +385,6 @@
 				"quote": "'A real friend is one who walks in when the rest of the world walks out.' - Walter Winchell"
 			},
 			{
-				"name": "Future Tech",
-				"row": 5,
-				"prerequisites": [
-					"Metagenetics",
-					"Terraforming",
-					"Clean Energy",
-					"Spaceflight",
-					"Nuclear Fusion"
-				],
-				"uniques": [
-					"Go beyond the Future",
-					"Can be continually researched"
-				],
-				"quote": "'But to understand the future. We have to go back in time' - Pitbull"
-			},
-			{
 				"name": "Particle Physics",
 				"row": 8,
 				"prerequisites": [
@@ -410,5 +394,29 @@
 				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
 			}
 		]
-	}
+	},
+	{
+		"columnNumber": 20,
+		"era": "Future era",
+		"techCost": 20000,
+		"buildingCost": 2000,
+		"wonderCost": 3120,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 5,
+				"prerequisites": [
+					"World Alliance",
+					"Clean Energy",
+					"Particle Physics",
+				],
+				"uniques": [
+					"Go beyond the Future",
+					"Can be continually researched"
+				],
+				"quote": "'But to understand the future. We have to go back in time' - Pitbull"
+			},
+		]
+	},
+	
 ]
