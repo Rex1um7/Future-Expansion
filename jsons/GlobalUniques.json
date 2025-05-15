@@ -7,6 +7,8 @@
                 "[Giant Death Robot] units gain the [Amphibious] promotion",
                 "[Giant Death Robot] units gain the [Gravity Generator] promotion",
                 "[Worker] units gain the [UpgradeToArchitect] promotion",
+                "[Siege] units gain the [Support Ranged Siege Ability] promotion <when adjacent to a [Observation Ballon] unit>",
+                "[Siege] units gain the [Support Ranged Siege Ability] promotion <when adjacent to a [Support Drone] unit>",
                 //
                 "[+10]% [Production] [in this city] <in cities with a [Factory]> <with [Power]>",
                 "[+10]% Production when constructing [Military] units [in all cities] <when at war> <starting from the [Modern era]>",
