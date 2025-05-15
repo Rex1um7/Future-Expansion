@@ -119,6 +119,15 @@
 	},
 	*/
 	{
+		"name": "Support Ranged Siege Ability",
+		"uniques": [
+			"[1] Range <when adjacent to a [Observation Balloon] unit>",
+			"[+33]% Strength <when adjacent to a [Observation Balloon] unit>",
+			"[1] Range <when adjacent to a [Support Drone] unit>",
+			"[+33]% Strength <when adjacent to a [Support Drone] unit>",
+		]
+	},
+	{
 		"name": "Skirmish",
 		"uniques": [
 			"Withdraws before melee combat <with [33]% chance>"
