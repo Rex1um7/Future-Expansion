@@ -218,12 +218,35 @@
 		"promotions": [
 			
 		],
-		"upgradesTo": "Drone",
+		"upgradesTo": "Support Drone",
 		"uniques": [
 			"Intel",
 			"Never appears as a Barbarian unit",
 			"Comment [+1 Range to adjacent [Siege] Units]",
-			"[+33]% Strength bonus for [Siege] units within [1] tiles",
+			"Comment [+33% Strength bonus for Siege units within 1 tiles]",
+			"[+1] Sight",
+			"No defensive terrain bonus",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"May travel on Water tiles without embarking",
+			"Can enter ice tiles",
+		]
+	},
+	{
+		"name": "Support Drone",
+		"unitType": "Support",
+		"movement": 5,
+		"strength": 80,
+		"cost": 560,
+		"promotions": [
+			
+		],
+		"requiredTech": "Computers",
+		"uniques": [
+			"Intel",
+			"Never appears as a Barbarian unit",
+			"Comment [+1 Range to adjacent Siege Units]",
+			"Comment [+33% Strength bonus for Siege units within 1 tiles]",
 			"[+1] Sight",
 			"No defensive terrain bonus",
 			"All tiles cost 1 movement",
@@ -721,29 +744,6 @@
 			"Consumes [2] [Uranium]"
 		],
 		"attackSound": "nuke"
-	},
-	{
-		"name": "Drone",
-		"unitType": "Support",
-		"movement": 5,
-		"strength": 80,
-		"cost": 560,
-		"promotions": [
-			
-		],
-		"requiredTech": "Computers",
-		"uniques": [
-			"Intel",
-			//"Never appears as a Barbarian unit",
-			"Comment [+1 Range to adjacent [Siege] Units]",
-			"[+33]% Strength bonus for [Siege] units within [1] tiles",
-			"[+1] Sight",
-			"No defensive terrain bonus",
-			"All tiles cost 1 movement",
-			"Ignores Zone of Control",
-			"May travel on Water tiles without embarking",
-			"Can enter ice tiles",
-		]
 	},
 	{
 		"name": "Missile Cruiser",
