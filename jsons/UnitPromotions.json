@@ -208,10 +208,8 @@
 	},
 	{
 		"name": "UpgradeToArchitect",
-		"unitTypes": [
-			"Worker",
-		],
 		"uniques": [
+			"Only available <for [Worker] units>",
 			"[This Unit] upgrades for free <after discovering [Infraestructure]>",
 			"Gain [-700] [Gold]",
 		],
