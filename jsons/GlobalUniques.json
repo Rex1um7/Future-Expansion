@@ -6,7 +6,7 @@
                 "[Giant Death Robot] units gain the [Scan Visor] promotion",
                 "[Giant Death Robot] units gain the [Amphibious] promotion",
                 "[Giant Death Robot] units gain the [Gravity Generator] promotion",
-                "Can upgrade to [Architect] <for [Worker] units>",
+                "Can upgrade to [Architect] <for [Worker] units> <after discovering [Infraestructure]>",
                 "[Siege] units gain the [Support Ranged Siege Ability] promotion <when adjacent to a [Observation Balloon] unit>",
                 "[Siege] units gain the [Support Ranged Siege Ability] promotion <when adjacent to a [Support Drone] unit>",
                 //
