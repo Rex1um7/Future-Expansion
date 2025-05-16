@@ -7,7 +7,6 @@
                 "[Giant Death Robot] units gain the [Amphibious] promotion",
                 "[Giant Death Robot] units gain the [Gravity Generator] promotion",
                 "[Worker] units gain the [UpgradeToArchitect] promotion <upon discovering [Infraestructure] technology>",
-                "Gain [-700] [Gold] <upon expending a [Worker] unit> <for units with [UpgradeToArchitect]>",
                 "[Siege] units gain the [Support Ranged Siege Ability] promotion <when adjacent to a [Observation Balloon] unit>",
                 "[Siege] units gain the [Support Ranged Siege Ability] promotion <when adjacent to a [Support Drone] unit>",
                 //
