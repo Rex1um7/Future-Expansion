@@ -24,7 +24,7 @@
 		"requiredTech": "Printing Press"
 	},
 	//Industrial
-	{
+	/*{
 		"name": "Museum",
 		"culture": 5,
 		"specialistSlots": {
@@ -35,10 +35,9 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Archaeology",
 		"uniques": [
-			"[+5]% [Culture] [in this city] <with [Power]>",
 			"Destroyed when the city is captured"
 		]
-	},
+	},*/
 	{
 		"name": "History Museum",
 		"maintenance": 2,
