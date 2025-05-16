@@ -209,7 +209,7 @@
 	{
 		"name": "UpgradeToArchitect",
 		"uniques": [
-			"Can transform to [Architect] <costs [+700 Gold] stats> <removing the [UpgradeToArchitect] promotion/status> <in [your] tiles> <after discovering [Infraestructure]>",
+			"Can upgrade to [Architect]",
 		],
 	}
 ]
