@@ -210,8 +210,8 @@
 		"name": "UpgradeToArchitect",
 		"uniques": [
 			"Only available <for [Worker] units>",
-			"Can transform to [Architect] <removing the [UpgradeToArchitect] promotion/status> <in [your] tiles> <after discovering [Infraestructure]>",
-			"Gain [-700] [Gold] <upon losing the [UpgradeToArchitect] status>",
+			"Can transform to [Architect] <in [your] tiles> <after discovering [Infraestructure]>",
+			"Gain [-700] [Gold] <removing the [UpgradeToArchitect] promotion/status>",
 		],
 	}
 ]
