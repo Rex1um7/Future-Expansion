@@ -210,7 +210,7 @@
 		"name": "UpgradeToArchitect",
 		"unitTypes": [
 			"Worker",
-		]
+		],
 		"uniques": [
 			"[This Unit] upgrades for free <after discovering [Infraestructure]>",
 			"Gain [-700] [Gold]",
