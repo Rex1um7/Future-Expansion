@@ -2079,7 +2079,7 @@
 			"Comment [Prevent forgetting to build important SPs or EPs due to rapid tech development]",
 			"Unbuildable",
 			"Only available <starting from the [Industrial era]> <for [Human player] Civilizations>",
-			"Can be purchased for [0] [Tech] [in capital]",
+			"Can be purchased for [0] [Science] [in capital]",
 			"Remove [0 Tech Dev] [in capital]",
 			"Triggers a [Tech Reset] event",
 		],
