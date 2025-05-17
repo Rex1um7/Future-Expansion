@@ -2071,5 +2071,26 @@
 			"Unbuildable",
 			//"Will not be displayed in Civilopedia"
 		]
-	}
+	},
+	// Prevent forgetting to build important SPs or EPs due to rapid tech development
+	{
+		"name": "0 Tech Dev",
+		"uniques": [
+			"Comment [Prevent forgetting to build important SPs or EPs due to rapid tech development]",
+			"Unbuildable",
+			"Only available <starting from the [Industrial era]> <for [Human player] Civilizations>",
+			"Can be purchased for [0] [Tech] [in capital]",
+			"Remove [0 Tech Dev] [in capital]",
+			"Triggers a [Tech Reset] event",
+		],
+	},
+	{
+		"name": "Technology Point Transfer",
+		"uniques": [
+			"0 Tech",
+			"Unbuildable",
+			"Nullifies [Science] [in all cities]",
+			"[+1 Gold, +1 Production, +1 Food] from every specialist [in all cities]",
+		],
+	},
 ]
