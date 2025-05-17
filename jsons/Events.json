@@ -1,18 +1,26 @@
 [
         {
-                "name":"Stat Adjustment",
-                "text":"City Grow",
+                "name":"Tech Reset",
+                "text":"Tech Reset",
                 "choices":[
                         {
-                                "text": "City Grow (Prince)",
+                                "text": "Science Transfer",
 				"civilopediaText": [
-					{ "text": "Default" }
+					{ "text": "0 Tech point" }
 				],
                                 "uniques": [
-					"Remove [City Grow] [in capital] <hidden from users>",
-					"Triggers a [Unit Cost] event <hidden from users>",
+					"Gain a free [Technology Point Transfer] [in capital] <hidden from users>",
 				]
                         },
-  ]
-  }
+			{
+                                "text": "Science Revive",
+				"civilopediaText": [
+					{ "text": "Your science collapse days are over, give me the blue bottle" }
+				],
+                                "uniques": [
+					"Remove [0 Tech] [in capital] <hidden from users>",
+				]
+                        },
+  		]
+  	}
 ]
