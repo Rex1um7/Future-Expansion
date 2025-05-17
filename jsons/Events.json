@@ -6,7 +6,7 @@
                         {
                                 "text": "Science Transfer",
 				"civilopediaText": [
-					{ "text": "0 Tech point" }
+					{ "text": "Nullifies Science" }
 				],
                                 "uniques": [
 					"Gain a free [Technology Point Transfer] [in capital] <hidden from users>",
