@@ -1,0 +1,18 @@
+[
+        {
+                "name":"Stat Adjustment",
+                "text":"City Grow",
+                "choices":[
+                        {
+                                "text": "City Grow (Prince)",
+				"civilopediaText": [
+					{ "text": "Default" }
+				],
+                                "uniques": [
+					"Remove [City Grow] [in capital] <hidden from users>",
+					"Triggers a [Unit Cost] event <hidden from users>",
+				]
+                        },
+  ]
+  }
+]
