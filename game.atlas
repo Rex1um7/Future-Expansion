@@ -1544,7 +1544,7 @@ TileSets/FantasyHex/Units/Dismantler
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Drone
+TileSets/FantasyHex/Units/Support Drone
   rotate: false
   xy: 44, 4
   size: 32, 28
@@ -2062,7 +2062,7 @@ UnitIcons/Dimensional Shifter
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Drone
+UnitIcons/Support Drone
   rotate: false
   xy: 4, 1428
   size: 200, 200
