@@ -930,6 +930,30 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Bio Drone",
+		"unitType": "Helicopter",
+		"movement": 5,
+		"strength": 90,
+		"cost": 600,
+		"requiredTech": "Enhancing",
+		"uniques": [
+			"Bio",
+			"[+1] Sight",
+			"No defensive terrain bonus",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"May travel on Water tiles without embarking",
+			"Can enter ice tiles",
+			"Can move after attacking",
+			"Unable to capture cities",
+			"Can carry [2] [Missile] units",
+		],
+		"promotions": [
+			"Implants"
+		],
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Hovertank",
 		"unitType": "Armored",
 		"movement": 5,
