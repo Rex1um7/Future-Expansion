@@ -986,6 +986,9 @@
 			"Consumes [1] [Scientist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Solar Farm]",
+			"Comment [Enable construction of Wind Farm]",
+			"Comment [Enable construction of Offshore Wind Farm]",
 		],
 		"civilopediaText": [
 			{
@@ -1040,6 +1043,8 @@
 			"Consumes [1] [Scientist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Energy Reactor]",
+			"Comment [Enable construction of Energy Barrier]",
 		]
 	},
 	{
@@ -1091,6 +1096,7 @@
 			"Consumes [1] [Artist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of History Museum]",
 		],
 		"civilopediaText": [
 			{
@@ -1131,6 +1137,7 @@
 			"Consumes [1] [Artist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of International Pass]",
 		],
 		"civilopediaText": [
 			{
@@ -1220,6 +1227,8 @@
 			"Consumes [1] [Artist Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Orbital Fighters]",
+			"Comment [Enable construction of Orbital Bombers]",
 		],
 		"civilopediaText": [
 			{
@@ -1227,7 +1236,7 @@
 				"link": "Units/Orbital Fighters",
 			},
 			{
-				"text": "Orbital Fighters",
+				"text": "Orbital Bombers",
 				"link": "Units/Orbital Bombers",
 			},
 		],
@@ -1280,6 +1289,8 @@
 			"Consumes [1] [Engineer Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Triplane]",
+			"Comment [Enable construction of Landship]",
 		],
 		"civilopediaText": [
 			{
@@ -1394,6 +1405,8 @@
 			"Consumes [1] [Engineer Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Bio Facility]",
+			"Comment [Enable construction of Seeker]",
 		],
 		"civilopediaText": [
 			{
@@ -1421,6 +1434,8 @@
 			"Consumes [1] [Engineer Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Composite Factory]",
+			"Comment [Enable construction of Future Submarine]",
 		],
 		"civilopediaText": [
 			{
@@ -1521,6 +1536,7 @@
 			"Consumes [1] [Merchant Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Branch Office]",
 		],
 		"civilopediaText": [
 			{
@@ -1595,6 +1611,7 @@
 			"Consumes [1] [Merchant Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Adaptive Base]",
 		],
 		"civilopediaText": [
 			{
@@ -1829,7 +1846,6 @@
 		"cost": 1,
 		"uniques": [
 			"Modern Perk",
-			"Unsellable",
 			"Cannot be purchased",
 			"[+10]% Strength <for [Military] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
@@ -1837,6 +1853,8 @@
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Great War Infantry]",
+			"Comment [Enable construction of Great War Bomber]",
 		],
 		"civilopediaText": [
 			{
@@ -1925,7 +1943,6 @@
 		"cost": 1,
 		"uniques": [
 			"Information Perk",
-			"Unsellable",
 			"Cannot be purchased",
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
@@ -1933,6 +1950,8 @@
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Stealth Bomber]",
+			"Comment [Enable construction of Stealth Hacker]",
 		],
 		"civilopediaText": [
 			{
@@ -1959,6 +1978,9 @@
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Hovertank]",
+			"Comment [Enable construction of Hovertillery]",
+			"Comment [Enable construction of Hover-SAM]",
 		],
 		"civilopediaText": [
 			{
@@ -1989,6 +2011,9 @@
 			"Consumes [1] [General Perk]",
 			"Limited to [1] per Civilization <hidden from users>", 			
 			"Unbuildable <in [in puppeted cities] cities> <hidden from users>",
+			"Comment [Enable construction of Energy Infantry]",
+			"Comment [Enable construction of Future Copter]",
+			"Comment [Enable construction of Orbital Carrier]",
 		],
 		"civilopediaText": [
 			{
