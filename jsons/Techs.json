@@ -398,9 +398,9 @@
 	{
 		"columnNumber": 20,
 		"era": "Beyond the Future",
-		"techCost": 20000,
-		"buildingCost": 2000,
-		"wonderCost": 3120,
+		"techCost": 35000,
+		"buildingCost": 3000,
+		"wonderCost": 3880,
 		"techs": [
 			{
 				"name": "Future Tech",
