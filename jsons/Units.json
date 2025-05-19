@@ -909,9 +909,6 @@
 			"Only available <if [GP-Stealth Operatives] is constructed>",
 			"Can see over obstacles"
 		],
-		"promotions": [
-			"Stealth"
-		],
 		"attackSound": "bombing"
 	},
 	//Future
