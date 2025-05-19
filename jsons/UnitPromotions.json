@@ -133,6 +133,12 @@
 			"Withdraws before melee combat <with [33]% chance>"
 		]
 	},
+	{
+		"name": "Cyber",
+		"uniques": [
+			"Cyber",
+		]
+	},
 	//Carrier
 	{
 		"name": "Armor Plating I",
