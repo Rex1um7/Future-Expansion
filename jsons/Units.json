@@ -1578,7 +1578,7 @@
 			"Cannot attack <vs [Submarine] units>",
 			"All tiles cost 1 movement",
 			"Uncapturable",
-			"[+100]% Strength <vs [Air] units>",
+			"[+50]% Strength <vs [Air] units>",
 			"May capture killed [Land] units <with [22]% chance>",
 			"Will not be displayed in Civilopedia",
 			"Only available <if [Monolith Portal] is constructed>"
