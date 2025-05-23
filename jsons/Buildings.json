@@ -2119,4 +2119,19 @@
 			"[+20]% Yield from every [{non-[Science]} {Buildings}]",
 		],
 	},
+	{
+		"name": "Random Perk",
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Triggers a global alert upon completion",
+			"Unbuildable",
+			"Only available <starting from the [Industrial era]> <for [AI player] Civilizations>",
+			"Provides [1] [Scientist Perk] <upon constructing [Science]> <with [4]% chance>",
+			"Provides [1] [Artist Perk] <upon constructing [Culture]> <with [4]% chance>",
+			"Provides [1] [Engineer Perk] <upon constructing [Production]> <with [4]% chance>",
+			"Provides [1] [Merchant Perk] <upon constructing [Gold]> <with [4]% chance>",
+			"Provides [1] [Prophet Perk] <upon constructing [Faith]> <with [4]% chance>",
+			"Provides [1] [General Perk] <upon declaring war with a major Civilization> <with [10]% chance>",
+		],
+	},
 ]
