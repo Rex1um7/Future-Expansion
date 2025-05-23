@@ -2,7 +2,7 @@
         "name": "Global Uniques",
         "uniques":[
                 "Gain a free [Corporate Slot] [in capital] <for [Major] Civilizations>",
-                "Gain a free [Random Perk] [in all cities] <for [AI player] Civilizations>",
+                "Gain a free [Random Perk] [in capital] <for [AI player] Civilizations>",
                 // Promotion 
                 "[Giant Death Robot] units gain the [Scan Visor] promotion",
                 "[Giant Death Robot] units gain the [Amphibious] promotion",
