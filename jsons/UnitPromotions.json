@@ -32,7 +32,8 @@
 		"name": "Amphibious",
 		"uniques": [
 			"[+1] Sight <when [Embarked]>",
-			"[+100]% Strength <when defending> <when [Embarked]>"
+			"[+100]% Strength <when defending> <when [Embarked]>",
+			"Eliminates combat penalty for attacking over a river",
 		]
 	},
 	{
