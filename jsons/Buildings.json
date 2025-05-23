@@ -2116,6 +2116,7 @@
 			"Unbuildable",
 			"Nullifies [Science] [in all cities]",
 			"[+1 Gold, +1 Production, +1 Food] from every specialist [in all cities]",
+			"[+20]% Yield from every [{non-[Science]} {Buildings}]",
 		],
 	},
 ]
