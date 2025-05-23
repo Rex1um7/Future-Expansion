@@ -78,8 +78,8 @@
 			"Never appears as a Barbarian unit",
 			"All adjacent units heal [+10] HP when healing <before adopting [Collectivization]>",
 			"All adjacent units heal [+20] HP when healing <after adopting [Collectivization]>",
-			"Uncapturable"
-			
+			"Uncapturable",
+			"Limited to [8] per Civilization <for [AI player] Civilizations> <hidden from users>",
 		]
 	},
 	/*{
@@ -230,6 +230,7 @@
 			"Ignores Zone of Control",
 			"May travel on Water tiles without embarking",
 			"Can enter ice tiles",
+			"Limited to [10] per Civilization <for [AI player] Civilizations> <hidden from users>",
 		]
 	},
 	{
@@ -253,6 +254,7 @@
 			"Ignores Zone of Control",
 			"May travel on Water tiles without embarking",
 			"Can enter ice tiles",
+			"Limited to [10] per Civilization <for [AI player] Civilizations> <hidden from users>",
 		]
 	},
 	{
@@ -454,7 +456,7 @@
 		],
 		"attackSound": "shipguns"
 	},
-	{
+	/*{
 		"name": "Anti-Aircraft Gun",
 		"unitType": "Support",
 		"movement": 2,
@@ -474,7 +476,7 @@
 			"[100]% chance to intercept air attacks",
 			"[+100]% Strength <vs [Air] units>"
 		]
-	},
+	},*/
 	{
 		"name": "Tank",
 		"unitType": "Armored",
@@ -637,7 +639,7 @@
 		],
 		"attackSound": "artillery"
 	},
-	{
+	/*{
 		"name": "Mobile SAM",
 		"unitType": "Support",
 		"movement": 3,
@@ -657,7 +659,7 @@
 			"[100]% chance to intercept air attacks",
 			"[+150]% Strength <vs [Air] units>"
 		]
-	},
+	},*/
 	{
 		"name": "Guided Missile",
 		"unitType": "Missile",
@@ -784,7 +786,8 @@
 			"Hacker",
 			//"Never appears as a Barbarian unit",
 			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
-			"May capture killed [Cyber] units <when adjacent to a [All] unit> <with [25]% chance>"
+			"May capture killed [Cyber] units <when adjacent to a [All] unit> <with [33]% chance>",
+			"Limited to [8] per Civilization <for [AI player] Civilizations> <hidden from users>",
 		]
 	},
 	{
@@ -865,9 +868,10 @@
 			"Hacker",
 			"Never appears as a Barbarian unit",
 			"[+33]% Strength bonus for [non-Air] units within [1] tiles <vs [Cyber] units>",
-			"May capture killed [Cyber] units <when adjacent to a [All] unit> <with [25]% chance>",
+			"May capture killed [Cyber] units <when adjacent to a [All] unit> <with [33]% chance>",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Can see invisible [Military] units",
+			"Limited to [8] per Civilization <for [AI player] Civilizations> <hidden from users>",
 			"Only available <if [GP-Stealth Operatives] is constructed>"
 		],
 		"promotions": [
@@ -1528,6 +1532,7 @@
 			"[+50]% Strength <vs [Cyber] units>",
 			"[+25]% Strength <vs [Land] units> <when attacking>",
 			"Will not be displayed in Civilopedia",
+			"Limited to [10] per Civilization <for [AI player] Civilizations> <hidden from users>",
 			"Only available <if [Monolith Portal] is constructed>"
 		],
 		"promotions": [
