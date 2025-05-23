@@ -2119,7 +2119,7 @@
 			"[+20]% Yield from every [Friendly Land]",
 		],
 	},
-	/*{
+	{
 		"name": "Random Perk",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
@@ -2133,5 +2133,5 @@
 			"Provides [1] [Prophet Perk] <upon turn end> <with [4]% chance>",
 			"Provides [1] [General Perk] <upon declaring war with a major Civilization> <with [10]% chance>",
 		],
-	},*/
+	},
 ]
